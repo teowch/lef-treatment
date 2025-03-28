@@ -1,0 +1,2883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LENEX version="3.0">
+  <CONSTRUCTOR name="SPLASH Meet Manager 11" registration="Swim Time Brasil" version="11.79911">
+    <CONTACT name="Splash Software GmbH" street="Ahornweg 41" city="Spiegel b. Bern" zip="3095" country="CH" email="sales@swimrankings.net" internet="https://www.swimrankings.net" />
+  </CONSTRUCTOR>
+  <MEETS>
+    <MEET city="Curitiba" name="Festival Estreantes da 1ª Região" course="SCM" deadline="2024-06-13" entrystartdate="2024-06-03" entrytype="OPEN" hostclub="Secretaria Municipal do Esporte, Lazer e Juventude" hostclub.url="https://www.curitiba.pr.gov.br/conteudo/estrutura/110" number="38318" organizer="Federação de Desportos Aquáticos do Paraná" organizer.url="https://www.fdap.org.br/" reservecount="2" result.url="https://www.swimtimebrasil.com/evento/natacao/38318" startmethod="1" timing="AUTOMATIC" touchpad="ONESIDE" masters="F" withdrawuntil="2024-06-13" state="PR" nation="BRA" maxentriesathlete="2">
+      <AGEDATE value="2024-06-15" type="YEAR" />
+      <POOL name="Clube da Gente Boa Vista" lanemin="1" lanemax="6" />
+      <FACILITY city="Curitiba" name="Clube da Gente Boa Vista" nation="BRA" state="PR" street="Joaquim da Costa Ribeiro, 319" street2="Bairro Alto" zip="82840-200" />
+      <POINTTABLE pointtableid="3016" name="FINA Point Scoring" version="2023" />
+      <FEES>
+        <FEE currency="BRL" type="ATHLETE" value="2500" />
+      </FEES>
+      <CONTACT city="Curitiba" email="ti@fdap.org.br" fax="+55 (41) 99252-0598" name="Federação de Desportos Aquáticos do Paraná" phone="+55 (41) 99252-0598" street="Avenida do Batel, 1230" street2="Sala 202" zip="80420-090" />
+      <SESSIONS>
+        <SESSION date="2024-06-15" daytime="09:50" endtime="10:44" number="1" warmupfrom="09:20" warmupuntil="09:40" maxentriesathlete="2">
+          <EVENTS>
+            <EVENT eventid="1059" gender="F" number="1" order="1" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1061" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5553" />
+                    <RANKING order="2" place="2" resultid="5568" />
+                    <RANKING order="3" place="3" resultid="5610" />
+                    <RANKING order="4" place="4" resultid="5565" />
+                    <RANKING order="5" place="5" resultid="5598" />
+                    <RANKING order="6" place="-1" resultid="5052" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5707" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1062" gender="M" number="2" order="2" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1064" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5649" />
+                    <RANKING order="2" place="2" resultid="5607" />
+                    <RANKING order="3" place="3" resultid="5497" />
+                    <RANKING order="4" place="-1" resultid="5050" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5708" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1066" gender="F" number="3" order="3" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1067" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5569" />
+                    <RANKING order="2" place="2" resultid="5611" />
+                    <RANKING order="3" place="3" resultid="5554" />
+                    <RANKING order="4" place="4" resultid="5566" />
+                    <RANKING order="5" place="5" resultid="5599" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5709" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1068" gender="M" number="4" order="4" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1069" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5625" />
+                    <RANKING order="2" place="2" resultid="5650" />
+                    <RANKING order="3" place="3" resultid="5608" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5710" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1070" gender="F" number="5" order="5" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1071" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5521" />
+                    <RANKING order="2" place="2" resultid="4956" />
+                    <RANKING order="3" place="3" resultid="4962" />
+                    <RANKING order="4" place="4" resultid="5533" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5711" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1072" gender="M" number="6" order="6" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1073" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5686" />
+                    <RANKING order="2" place="2" resultid="5024" />
+                    <RANKING order="3" place="3" resultid="5592" />
+                    <RANKING order="4" place="4" resultid="5536" />
+                    <RANKING order="5" place="5" resultid="4926" />
+                    <RANKING order="6" place="6" resultid="4953" />
+                    <RANKING order="7" place="7" resultid="5626" />
+                    <RANKING order="8" place="8" resultid="5518" />
+                    <RANKING order="9" place="-1" resultid="4959" />
+                    <RANKING order="10" place="-1" resultid="5030" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5712" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5713" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1074" gender="F" number="7" order="7" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1075" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5520" />
+                    <RANKING order="2" place="2" resultid="4957" />
+                    <RANKING order="3" place="3" resultid="4963" />
+                    <RANKING order="4" place="4" resultid="5532" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5714" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1076" gender="M" number="8" order="8" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1077" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5687" />
+                    <RANKING order="2" place="2" resultid="5593" />
+                    <RANKING order="3" place="3" resultid="5025" />
+                    <RANKING order="4" place="4" resultid="5535" />
+                    <RANKING order="5" place="5" resultid="4954" />
+                    <RANKING order="6" place="6" resultid="5813" />
+                    <RANKING order="7" place="-1" resultid="4960" />
+                    <RANKING order="8" place="-1" resultid="5031" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5715" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5716" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1078" gender="F" number="9" order="9" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1079" agemax="9" agemin="8" />
+              </AGEGROUPS>
+            </EVENT>
+            <EVENT eventid="1080" gender="M" number="10" order="10" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1081" agemax="9" agemin="8">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4927" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5717" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+        <SESSION date="2024-06-15" daytime="14:40" endtime="16:54" number="2" warmupfrom="13:50" warmupuntil="14:30">
+          <EVENTS>
+            <EVENT eventid="1082" gender="F" number="11" order="1" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1083" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4935" />
+                    <RANKING order="2" place="2" resultid="5398" />
+                    <RANKING order="3" place="3" resultid="5221" />
+                    <RANKING order="4" place="3" resultid="5507" />
+                    <RANKING order="5" place="5" resultid="5544" />
+                    <RANKING order="6" place="6" resultid="5036" />
+                    <RANKING order="7" place="7" resultid="5631" />
+                    <RANKING order="8" place="8" resultid="5254" />
+                    <RANKING order="9" place="9" resultid="5374" />
+                    <RANKING order="10" place="10" resultid="5206" />
+                    <RANKING order="11" place="11" resultid="5401" />
+                    <RANKING order="12" place="12" resultid="5101" />
+                    <RANKING order="13" place="13" resultid="5652" />
+                    <RANKING order="14" place="14" resultid="5251" />
+                    <RANKING order="15" place="15" resultid="5156" />
+                    <RANKING order="16" place="16" resultid="5217" />
+                    <RANKING order="17" place="17" resultid="5170" />
+                    <RANKING order="18" place="18" resultid="5692" />
+                    <RANKING order="19" place="19" resultid="5194" />
+                    <RANKING order="20" place="-1" resultid="4993" />
+                    <RANKING order="21" place="-1" resultid="5006" />
+                    <RANKING order="22" place="-1" resultid="5188" />
+                    <RANKING order="23" place="-1" resultid="5200" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5718" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5719" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5720" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5721" number="4" order="4" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1086" gender="M" number="12" order="2" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1087" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5541" />
+                    <RANKING order="2" place="2" resultid="5377" />
+                    <RANKING order="3" place="3" resultid="5191" />
+                    <RANKING order="4" place="4" resultid="4984" />
+                    <RANKING order="5" place="5" resultid="5371" />
+                    <RANKING order="6" place="6" resultid="5233" />
+                    <RANKING order="7" place="7" resultid="5817" />
+                    <RANKING order="8" place="8" resultid="5515" />
+                    <RANKING order="9" place="9" resultid="5658" />
+                    <RANKING order="10" place="10" resultid="5491" />
+                    <RANKING order="11" place="11" resultid="5665" />
+                    <RANKING order="12" place="12" resultid="5248" />
+                    <RANKING order="13" place="13" resultid="5583" />
+                    <RANKING order="14" place="14" resultid="5683" />
+                    <RANKING order="15" place="15" resultid="5113" />
+                    <RANKING order="16" place="16" resultid="5513" />
+                    <RANKING order="17" place="17" resultid="5488" />
+                    <RANKING order="18" place="18" resultid="5640" />
+                    <RANKING order="19" place="19" resultid="5161" />
+                    <RANKING order="20" place="20" resultid="5499" />
+                    <RANKING order="21" place="21" resultid="5494" />
+                    <RANKING order="22" place="-1" resultid="5146" />
+                    <RANKING order="23" place="-1" resultid="5209" />
+                    <RANKING order="24" place="-1" resultid="5413" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5722" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5723" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5724" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5725" number="4" order="4" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1088" gender="F" number="13" order="3" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1089" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5266" />
+                    <RANKING order="2" place="2" resultid="5350" />
+                    <RANKING order="3" place="3" resultid="5284" />
+                    <RANKING order="4" place="4" resultid="5068" />
+                    <RANKING order="5" place="5" resultid="5164" />
+                    <RANKING order="6" place="-1" resultid="5167" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5726" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1090" gender="M" number="14" order="4" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1091" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5341" />
+                    <RANKING order="2" place="2" resultid="5404" />
+                    <RANKING order="3" place="3" resultid="5655" />
+                    <RANKING order="4" place="4" resultid="5527" />
+                    <RANKING order="5" place="5" resultid="5410" />
+                    <RANKING order="6" place="6" resultid="4972" />
+                    <RANKING order="7" place="7" resultid="4969" />
+                    <RANKING order="8" place="8" resultid="5482" />
+                    <RANKING order="9" place="-1" resultid="5365" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5727" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5728" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1092" gender="F" number="15" order="5" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1093" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5399" />
+                    <RANKING order="2" place="2" resultid="5637" />
+                    <RANKING order="3" place="3" resultid="5222" />
+                    <RANKING order="4" place="4" resultid="5102" />
+                    <RANKING order="5" place="5" resultid="5255" />
+                    <RANKING order="6" place="6" resultid="5037" />
+                    <RANKING order="7" place="7" resultid="5545" />
+                    <RANKING order="8" place="8" resultid="5171" />
+                    <RANKING order="9" place="9" resultid="5207" />
+                    <RANKING order="10" place="10" resultid="5157" />
+                    <RANKING order="11" place="11" resultid="5252" />
+                    <RANKING order="12" place="12" resultid="5632" />
+                    <RANKING order="13" place="13" resultid="5218" />
+                    <RANKING order="14" place="14" resultid="5653" />
+                    <RANKING order="15" place="15" resultid="5195" />
+                    <RANKING order="16" place="16" resultid="5693" />
+                    <RANKING order="17" place="-1" resultid="5007" />
+                    <RANKING order="18" place="-1" resultid="5159" />
+                    <RANKING order="19" place="-1" resultid="5189" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5729" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5730" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5731" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5732" number="4" order="4" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1094" gender="M" number="16" order="6" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1095" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4985" />
+                    <RANKING order="2" place="2" resultid="5689" />
+                    <RANKING order="3" place="3" resultid="5372" />
+                    <RANKING order="4" place="4" resultid="5634" />
+                    <RANKING order="5" place="5" resultid="5234" />
+                    <RANKING order="6" place="6" resultid="5659" />
+                    <RANKING order="7" place="7" resultid="5584" />
+                    <RANKING order="8" place="8" resultid="5489" />
+                    <RANKING order="9" place="9" resultid="5114" />
+                    <RANKING order="10" place="10" resultid="5641" />
+                    <RANKING order="11" place="11" resultid="5550" />
+                    <RANKING order="12" place="12" resultid="5666" />
+                    <RANKING order="13" place="13" resultid="5162" />
+                    <RANKING order="14" place="14" resultid="5495" />
+                    <RANKING order="15" place="15" resultid="5249" />
+                    <RANKING order="16" place="16" resultid="5684" />
+                    <RANKING order="17" place="-1" resultid="5147" />
+                    <RANKING order="18" place="-1" resultid="5414" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5733" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5734" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5735" number="3" order="3" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1096" gender="F" number="17" order="7" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1097" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5287" />
+                    <RANKING order="2" place="2" resultid="5272" />
+                    <RANKING order="3" place="3" resultid="5464" />
+                    <RANKING order="4" place="4" resultid="5071" />
+                    <RANKING order="5" place="5" resultid="5182" />
+                    <RANKING order="6" place="6" resultid="5623" />
+                    <RANKING order="7" place="7" resultid="5119" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5736" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5737" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1098" gender="M" number="18" order="8" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1099" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5281" />
+                    <RANKING order="2" place="2" resultid="5033" />
+                    <RANKING order="3" place="3" resultid="5461" />
+                    <RANKING order="4" place="4" resultid="5458" />
+                    <RANKING order="5" place="5" resultid="5619" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5738" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1100" gender="F" number="19" order="9" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1101" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5668" />
+                    <RANKING order="2" place="2" resultid="5402" />
+                    <RANKING order="3" place="3" resultid="5375" />
+                    <RANKING order="4" place="-1" resultid="4994" />
+                    <RANKING order="5" place="-1" resultid="5201" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5739" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1102" gender="M" number="20" order="10" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="25" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1103" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5378" />
+                    <RANKING order="2" place="2" resultid="5674" />
+                    <RANKING order="3" place="3" resultid="5816" />
+                    <RANKING order="4" place="4" resultid="5492" />
+                    <RANKING order="5" place="-1" resultid="5210" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5740" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1104" gender="F" number="21" order="11" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1105" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5362" />
+                    <RANKING order="2" place="2" resultid="5288" />
+                    <RANKING order="3" place="3" resultid="5353" />
+                    <RANKING order="4" place="4" resultid="5137" />
+                    <RANKING order="5" place="5" resultid="5267" />
+                    <RANKING order="6" place="6" resultid="5273" />
+                    <RANKING order="7" place="7" resultid="5263" />
+                    <RANKING order="8" place="8" resultid="5556" />
+                    <RANKING order="9" place="9" resultid="5586" />
+                    <RANKING order="10" place="10" resultid="5185" />
+                    <RANKING order="11" place="11" resultid="5677" />
+                    <RANKING order="12" place="12" resultid="5176" />
+                    <RANKING order="13" place="13" resultid="5183" />
+                    <RANKING order="14" place="14" resultid="5622" />
+                    <RANKING order="15" place="15" resultid="5465" />
+                    <RANKING order="16" place="16" resultid="5269" />
+                    <RANKING order="17" place="17" resultid="5452" />
+                    <RANKING order="18" place="18" resultid="5072" />
+                    <RANKING order="19" place="19" resultid="5120" />
+                    <RANKING order="20" place="20" resultid="5179" />
+                    <RANKING order="21" place="21" resultid="5168" />
+                    <RANKING order="22" place="22" resultid="5589" />
+                    <RANKING order="23" place="23" resultid="5613" />
+                    <RANKING order="24" place="24" resultid="5069" />
+                    <RANKING order="25" place="25" resultid="5027" />
+                    <RANKING order="26" place="26" resultid="5214" />
+                    <RANKING order="27" place="27" resultid="5562" />
+                    <RANKING order="28" place="28" resultid="5212" />
+                    <RANKING order="29" place="29" resultid="5227" />
+                    <RANKING order="30" place="30" resultid="5257" />
+                    <RANKING order="31" place="31" resultid="5260" />
+                    <RANKING order="32" place="32" resultid="5092" />
+                    <RANKING order="33" place="33" resultid="5165" />
+                    <RANKING order="34" place="34" resultid="4947" />
+                    <RANKING order="35" place="-1" resultid="5173" />
+                    <RANKING order="36" place="-1" resultid="5470" />
+                    <RANKING order="37" place="-1" resultid="5538" />
+                    <RANKING order="38" place="-1" resultid="5616" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5741" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5742" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5743" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5744" number="4" order="4" status="OFFICIAL" />
+                <HEAT heatid="5745" number="5" order="5" status="OFFICIAL" />
+                <HEAT heatid="5746" number="6" order="6" status="OFFICIAL" />
+                <HEAT heatid="5747" number="7" order="7" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1106" gender="M" number="22" order="12" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1107" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5003" />
+                    <RANKING order="2" place="2" resultid="4981" />
+                    <RANKING order="3" place="3" resultid="5335" />
+                    <RANKING order="4" place="4" resultid="5462" />
+                    <RANKING order="5" place="5" resultid="4929" />
+                    <RANKING order="6" place="6" resultid="5282" />
+                    <RANKING order="7" place="7" resultid="5405" />
+                    <RANKING order="8" place="8" resultid="5380" />
+                    <RANKING order="9" place="9" resultid="5034" />
+                    <RANKING order="10" place="10" resultid="5559" />
+                    <RANKING order="11" place="11" resultid="5342" />
+                    <RANKING order="12" place="12" resultid="5455" />
+                    <RANKING order="13" place="13" resultid="5459" />
+                    <RANKING order="14" place="14" resultid="5009" />
+                    <RANKING order="15" place="15" resultid="5620" />
+                    <RANKING order="16" place="16" resultid="5547" />
+                    <RANKING order="17" place="17" resultid="5504" />
+                    <RANKING order="18" place="18" resultid="5275" />
+                    <RANKING order="19" place="19" resultid="5510" />
+                    <RANKING order="20" place="20" resultid="5526" />
+                    <RANKING order="21" place="21" resultid="5574" />
+                    <RANKING order="22" place="22" resultid="5395" />
+                    <RANKING order="23" place="23" resultid="5224" />
+                    <RANKING order="24" place="24" resultid="5278" />
+                    <RANKING order="25" place="25" resultid="5197" />
+                    <RANKING order="26" place="26" resultid="5656" />
+                    <RANKING order="27" place="27" resultid="4973" />
+                    <RANKING order="28" place="28" resultid="5411" />
+                    <RANKING order="29" place="29" resultid="5643" />
+                    <RANKING order="30" place="30" resultid="5383" />
+                    <RANKING order="31" place="31" resultid="5065" />
+                    <RANKING order="32" place="32" resultid="5332" />
+                    <RANKING order="33" place="33" resultid="4970" />
+                    <RANKING order="34" place="34" resultid="5483" />
+                    <RANKING order="35" place="-1" resultid="5042" />
+                    <RANKING order="36" place="-1" resultid="5054" />
+                    <RANKING order="37" place="-1" resultid="5058" />
+                    <RANKING order="38" place="-1" resultid="5060" />
+                    <RANKING order="39" place="-1" resultid="5230" />
+                    <RANKING order="40" place="-1" resultid="5323" />
+                    <RANKING order="41" place="-1" resultid="5366" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5748" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5749" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5750" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5751" number="4" order="4" status="OFFICIAL" />
+                <HEAT heatid="5752" number="5" order="5" status="OFFICIAL" />
+                <HEAT heatid="5753" number="6" order="6" status="OFFICIAL" />
+                <HEAT heatid="5754" number="7" order="7" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1108" gender="F" number="23" order="13" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1109" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4936" />
+                    <RANKING order="2" place="2" resultid="5039" />
+                    <RANKING order="3" place="3" resultid="5508" />
+                    <RANKING order="4" place="4" resultid="5669" />
+                    <RANKING order="5" place="5" resultid="5638" />
+                    <RANKING order="6" place="6" resultid="4941" />
+                    <RANKING order="7" place="-1" resultid="5044" />
+                    <RANKING order="8" place="-1" resultid="5046" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5755" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5756" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1110" gender="M" number="24" order="14" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1111" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4990" />
+                    <RANKING order="2" place="2" resultid="5542" />
+                    <RANKING order="3" place="3" resultid="4987" />
+                    <RANKING order="4" place="4" resultid="5635" />
+                    <RANKING order="5" place="5" resultid="5675" />
+                    <RANKING order="6" place="6" resultid="5192" />
+                    <RANKING order="7" place="7" resultid="5690" />
+                    <RANKING order="8" place="8" resultid="5516" />
+                    <RANKING order="9" place="-1" resultid="5048" />
+                    <RANKING order="10" place="-1" resultid="5702" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5757" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5758" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1112" gender="F" number="25" order="15" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1113" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5363" />
+                    <RANKING order="2" place="2" resultid="5186" />
+                    <RANKING order="3" place="3" resultid="5354" />
+                    <RANKING order="4" place="4" resultid="5138" />
+                    <RANKING order="5" place="5" resultid="5587" />
+                    <RANKING order="6" place="6" resultid="5351" />
+                    <RANKING order="7" place="7" resultid="5285" />
+                    <RANKING order="8" place="8" resultid="5264" />
+                    <RANKING order="9" place="9" resultid="5678" />
+                    <RANKING order="10" place="10" resultid="5270" />
+                    <RANKING order="11" place="11" resultid="5177" />
+                    <RANKING order="12" place="12" resultid="5228" />
+                    <RANKING order="13" place="13" resultid="5590" />
+                    <RANKING order="14" place="14" resultid="5557" />
+                    <RANKING order="15" place="15" resultid="5453" />
+                    <RANKING order="16" place="16" resultid="5563" />
+                    <RANKING order="17" place="17" resultid="5093" />
+                    <RANKING order="18" place="18" resultid="4948" />
+                    <RANKING order="19" place="19" resultid="5180" />
+                    <RANKING order="20" place="20" resultid="5028" />
+                    <RANKING order="21" place="21" resultid="5215" />
+                    <RANKING order="22" place="22" resultid="5614" />
+                    <RANKING order="23" place="23" resultid="5258" />
+                    <RANKING order="24" place="24" resultid="5261" />
+                    <RANKING order="25" place="-1" resultid="5174" />
+                    <RANKING order="26" place="-1" resultid="5471" />
+                    <RANKING order="27" place="-1" resultid="5539" />
+                    <RANKING order="28" place="-1" resultid="5617" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5759" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5760" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5761" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5762" number="4" order="4" status="OFFICIAL" />
+                <HEAT heatid="5763" number="5" order="5" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1114" gender="M" number="26" order="16" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1115" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4982" />
+                    <RANKING order="2" place="2" resultid="5336" />
+                    <RANKING order="3" place="3" resultid="5010" />
+                    <RANKING order="4" place="4" resultid="5198" />
+                    <RANKING order="5" place="5" resultid="5276" />
+                    <RANKING order="6" place="6" resultid="5396" />
+                    <RANKING order="7" place="7" resultid="5381" />
+                    <RANKING order="8" place="8" resultid="5066" />
+                    <RANKING order="9" place="9" resultid="5644" />
+                    <RANKING order="10" place="10" resultid="5333" />
+                    <RANKING order="11" place="11" resultid="5548" />
+                    <RANKING order="12" place="12" resultid="5575" />
+                    <RANKING order="13" place="13" resultid="5456" />
+                    <RANKING order="14" place="14" resultid="5505" />
+                    <RANKING order="15" place="15" resultid="5560" />
+                    <RANKING order="16" place="16" resultid="5225" />
+                    <RANKING order="17" place="17" resultid="5511" />
+                    <RANKING order="18" place="18" resultid="5384" />
+                    <RANKING order="19" place="-1" resultid="5231" />
+                    <RANKING order="20" place="-1" resultid="5279" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5764" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5765" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5766" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5767" number="4" order="4" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1116" gender="F" number="27" order="17" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1117" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5040" />
+                    <RANKING order="2" place="2" resultid="4942" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5768" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1118" gender="M" number="28" order="18" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1119" agemax="11" agemin="10">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4991" />
+                    <RANKING order="2" place="2" resultid="4988" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5769" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1120" gender="F" number="29" order="19" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1121" agemax="13" agemin="12" />
+              </AGEGROUPS>
+            </EVENT>
+            <EVENT eventid="1122" gender="M" number="30" order="20" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1123" agemax="13" agemin="12">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5004" />
+                    <RANKING order="2" place="-1" resultid="5324" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5770" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+        <SESSION date="2024-06-16" daytime="10:10" endtime="11:52" number="3" warmupfrom="09:20" warmupuntil="01:00">
+          <EVENTS>
+            <EVENT eventid="1124" gender="F" number="31" order="1" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1125" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5347" />
+                    <RANKING order="2" place="2" resultid="5015" />
+                    <RANKING order="3" place="3" resultid="5320" />
+                    <RANKING order="4" place="4" resultid="5018" />
+                    <RANKING order="5" place="5" resultid="5473" />
+                    <RANKING order="6" place="6" resultid="5302" />
+                    <RANKING order="7" place="7" resultid="5149" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5771" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5772" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1126" gender="M" number="32" order="2" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1127" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5012" />
+                    <RANKING order="2" place="2" resultid="5699" />
+                    <RANKING order="3" place="3" resultid="4944" />
+                    <RANKING order="4" place="-1" resultid="5131" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5773" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1128" gender="F" number="33" order="3" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1129" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5152" />
+                    <RANKING order="2" place="2" resultid="5479" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5774" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1130" gender="M" number="34" order="4" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FLY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1131" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5021" />
+                    <RANKING order="2" place="2" resultid="5116" />
+                    <RANKING order="3" place="3" resultid="5083" />
+                    <RANKING order="4" place="4" resultid="5476" />
+                    <RANKING order="5" place="5" resultid="5662" />
+                    <RANKING order="6" place="6" resultid="4951" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5775" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1132" gender="F" number="35" order="5" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1133" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5338" />
+                    <RANKING order="2" place="2" resultid="4975" />
+                    <RANKING order="3" place="3" resultid="5314" />
+                    <RANKING order="4" place="4" resultid="5356" />
+                    <RANKING order="5" place="5" resultid="5311" />
+                    <RANKING order="6" place="6" resultid="5474" />
+                    <RANKING order="7" place="7" resultid="5344" />
+                    <RANKING order="8" place="8" resultid="5449" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5776" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5777" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1134" gender="M" number="36" order="6" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1135" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5359" />
+                    <RANKING order="2" place="2" resultid="5134" />
+                    <RANKING order="3" place="3" resultid="5308" />
+                    <RANKING order="4" place="4" resultid="5329" />
+                    <RANKING order="5" place="5" resultid="5299" />
+                    <RANKING order="6" place="6" resultid="5392" />
+                    <RANKING order="7" place="7" resultid="5671" />
+                    <RANKING order="8" place="8" resultid="5446" />
+                    <RANKING order="9" place="9" resultid="5407" />
+                    <RANKING order="10" place="10" resultid="5077" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5778" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5779" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1136" gender="F" number="37" order="7" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1137" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5480" />
+                    <RANKING order="2" place="-1" resultid="5501" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5780" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1138" gender="M" number="38" order="8" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BREAST" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1139" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5389" />
+                    <RANKING order="2" place="2" resultid="5326" />
+                    <RANKING order="3" place="3" resultid="5467" />
+                    <RANKING order="4" place="4" resultid="5443" />
+                    <RANKING order="5" place="-1" resultid="5236" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5781" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1140" gender="F" number="39" order="9" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1141" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5605" />
+                    <RANKING order="2" place="2" resultid="5348" />
+                    <RANKING order="3" place="3" resultid="5315" />
+                    <RANKING order="4" place="4" resultid="4976" />
+                    <RANKING order="5" place="5" resultid="5357" />
+                    <RANKING order="6" place="6" resultid="5434" />
+                    <RANKING order="7" place="7" resultid="5019" />
+                    <RANKING order="8" place="8" resultid="5086" />
+                    <RANKING order="9" place="9" resultid="5016" />
+                    <RANKING order="10" place="10" resultid="5203" />
+                    <RANKING order="11" place="11" resultid="5321" />
+                    <RANKING order="12" place="12" resultid="5450" />
+                    <RANKING order="13" place="13" resultid="5001" />
+                    <RANKING order="14" place="14" resultid="4965" />
+                    <RANKING order="15" place="15" resultid="5143" />
+                    <RANKING order="16" place="16" resultid="5312" />
+                    <RANKING order="17" place="17" resultid="5523" />
+                    <RANKING order="18" place="18" resultid="5150" />
+                    <RANKING order="19" place="19" resultid="5107" />
+                    <RANKING order="20" place="20" resultid="5440" />
+                    <RANKING order="21" place="21" resultid="5339" />
+                    <RANKING order="22" place="22" resultid="5098" />
+                    <RANKING order="23" place="23" resultid="5303" />
+                    <RANKING order="24" place="24" resultid="5128" />
+                    <RANKING order="25" place="25" resultid="5140" />
+                    <RANKING order="26" place="26" resultid="5431" />
+                    <RANKING order="27" place="27" resultid="5110" />
+                    <RANKING order="28" place="28" resultid="5437" />
+                    <RANKING order="29" place="29" resultid="5245" />
+                    <RANKING order="30" place="30" resultid="5577" />
+                    <RANKING order="31" place="-1" resultid="5056" />
+                    <RANKING order="32" place="-1" resultid="5317" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5782" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5783" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5784" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5785" number="4" order="4" status="OFFICIAL" />
+                <HEAT heatid="5786" number="5" order="5" status="OFFICIAL" />
+                <HEAT heatid="5787" number="6" order="6" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1142" gender="M" number="40" order="10" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1143" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4978" />
+                    <RANKING order="2" place="2" resultid="5296" />
+                    <RANKING order="3" place="3" resultid="5300" />
+                    <RANKING order="4" place="4" resultid="5360" />
+                    <RANKING order="5" place="5" resultid="4938" />
+                    <RANKING order="6" place="6" resultid="5700" />
+                    <RANKING order="7" place="7" resultid="5309" />
+                    <RANKING order="8" place="8" resultid="5013" />
+                    <RANKING order="9" place="9" resultid="5330" />
+                    <RANKING order="10" place="10" resultid="5393" />
+                    <RANKING order="11" place="11" resultid="5089" />
+                    <RANKING order="12" place="12" resultid="5672" />
+                    <RANKING order="13" place="13" resultid="5646" />
+                    <RANKING order="14" place="14" resultid="5408" />
+                    <RANKING order="15" place="15" resultid="5416" />
+                    <RANKING order="16" place="16" resultid="5242" />
+                    <RANKING order="17" place="17" resultid="5428" />
+                    <RANKING order="18" place="18" resultid="5074" />
+                    <RANKING order="19" place="19" resultid="5078" />
+                    <RANKING order="20" place="20" resultid="5447" />
+                    <RANKING order="21" place="21" resultid="5680" />
+                    <RANKING order="22" place="22" resultid="4945" />
+                    <RANKING order="23" place="23" resultid="5293" />
+                    <RANKING order="24" place="24" resultid="5602" />
+                    <RANKING order="25" place="-1" resultid="5104" />
+                    <RANKING order="26" place="-1" resultid="5628" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5788" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5789" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5790" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5791" number="4" order="4" status="OFFICIAL" />
+                <HEAT heatid="5792" number="5" order="5" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1144" gender="F" number="41" order="11" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1145" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5502" />
+                    <RANKING order="2" place="2" resultid="5368" />
+                    <RANKING order="3" place="3" resultid="5290" />
+                    <RANKING order="4" place="4" resultid="4996" />
+                    <RANKING order="5" place="5" resultid="5529" />
+                    <RANKING order="6" place="6" resultid="5695" />
+                    <RANKING order="7" place="7" resultid="5122" />
+                    <RANKING order="8" place="8" resultid="4932" />
+                    <RANKING order="9" place="9" resultid="5062" />
+                    <RANKING order="10" place="10" resultid="5571" />
+                    <RANKING order="11" place="-1" resultid="5704" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5793" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5794" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1146" gender="M" number="42" order="12" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="FREE" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1147" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5390" />
+                    <RANKING order="2" place="2" resultid="5022" />
+                    <RANKING order="3" place="3" resultid="5386" />
+                    <RANKING order="4" place="4" resultid="5239" />
+                    <RANKING order="5" place="5" resultid="5595" />
+                    <RANKING order="6" place="6" resultid="5327" />
+                    <RANKING order="7" place="7" resultid="5095" />
+                    <RANKING order="8" place="8" resultid="5425" />
+                    <RANKING order="9" place="9" resultid="5663" />
+                    <RANKING order="10" place="10" resultid="4950" />
+                    <RANKING order="11" place="11" resultid="5444" />
+                    <RANKING order="12" place="12" resultid="5580" />
+                    <RANKING order="13" place="13" resultid="5419" />
+                    <RANKING order="14" place="14" resultid="5117" />
+                    <RANKING order="15" place="15" resultid="5422" />
+                    <RANKING order="16" place="16" resultid="5468" />
+                    <RANKING order="17" place="-1" resultid="5080" />
+                    <RANKING order="18" place="-1" resultid="5237" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5795" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5796" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5797" number="3" order="3" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1148" gender="F" number="43" order="13" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1149" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5108" />
+                    <RANKING order="2" place="2" resultid="5087" />
+                    <RANKING order="3" place="3" resultid="5706" />
+                    <RANKING order="4" place="4" resultid="5129" />
+                    <RANKING order="5" place="5" resultid="5703" />
+                    <RANKING order="6" place="6" resultid="5144" />
+                    <RANKING order="7" place="7" resultid="5099" />
+                    <RANKING order="8" place="8" resultid="5141" />
+                    <RANKING order="9" place="9" resultid="5432" />
+                    <RANKING order="10" place="10" resultid="5345" />
+                    <RANKING order="11" place="11" resultid="5524" />
+                    <RANKING order="12" place="12" resultid="5204" />
+                    <RANKING order="13" place="13" resultid="5246" />
+                    <RANKING order="14" place="14" resultid="5578" />
+                    <RANKING order="15" place="15" resultid="5441" />
+                    <RANKING order="16" place="16" resultid="4966" />
+                    <RANKING order="17" place="17" resultid="5111" />
+                    <RANKING order="18" place="18" resultid="5438" />
+                    <RANKING order="19" place="-1" resultid="5318" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5798" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5799" number="2" order="2" status="OFFICIAL" />
+                <HEAT heatid="5800" number="3" order="3" status="OFFICIAL" />
+                <HEAT heatid="5801" number="4" order="4" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1150" gender="M" number="44" order="14" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1151" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4979" />
+                    <RANKING order="2" place="2" resultid="4939" />
+                    <RANKING order="3" place="3" resultid="5090" />
+                    <RANKING order="4" place="4" resultid="5647" />
+                    <RANKING order="5" place="5" resultid="5429" />
+                    <RANKING order="6" place="6" resultid="5075" />
+                    <RANKING order="7" place="7" resultid="5294" />
+                    <RANKING order="8" place="8" resultid="5243" />
+                    <RANKING order="9" place="9" resultid="5417" />
+                    <RANKING order="10" place="10" resultid="5812" />
+                    <RANKING order="11" place="-1" resultid="5105" />
+                    <RANKING order="12" place="-1" resultid="5629" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5802" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5803" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1152" gender="F" number="45" order="15" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1153" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5369" />
+                    <RANKING order="2" place="2" resultid="5696" />
+                    <RANKING order="3" place="3" resultid="5123" />
+                    <RANKING order="4" place="4" resultid="5063" />
+                    <RANKING order="5" place="5" resultid="4933" />
+                    <RANKING order="6" place="6" resultid="5572" />
+                    <RANKING order="7" place="-1" resultid="5530" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5804" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5805" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1154" gender="M" number="46" order="16" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="50" relaycount="1" stroke="BACK" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1155" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5387" />
+                    <RANKING order="2" place="2" resultid="5596" />
+                    <RANKING order="3" place="3" resultid="5084" />
+                    <RANKING order="4" place="4" resultid="5420" />
+                    <RANKING order="5" place="5" resultid="5581" />
+                    <RANKING order="6" place="6" resultid="5423" />
+                    <RANKING order="7" place="-1" resultid="5081" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5806" number="1" order="1" status="OFFICIAL" />
+                <HEAT heatid="5807" number="2" order="2" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1156" gender="F" number="47" order="17" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="100" relaycount="1" stroke="MEDLEY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1157" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5435" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5808" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1158" gender="M" number="48" order="18" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="100" relaycount="1" stroke="MEDLEY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1159" agemax="15" agemin="14">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5135" />
+                    <RANKING order="2" place="2" resultid="5297" />
+                    <RANKING order="3" place="3" resultid="5681" />
+                    <RANKING order="4" place="-1" resultid="5132" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5809" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1160" gender="F" number="49" order="19" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="100" relaycount="1" stroke="MEDLEY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1161" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="4997" />
+                    <RANKING order="2" place="2" resultid="5291" />
+                    <RANKING order="3" place="3" resultid="5153" />
+                    <RANKING order="4" place="-1" resultid="5705" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5810" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="1162" gender="M" number="50" order="20" round="TIM" preveventid="-1">
+              <SWIMSTYLE distance="100" relaycount="1" stroke="MEDLEY" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1163" agemax="17" agemin="16">
+                  <RANKINGS>
+                    <RANKING order="1" place="1" resultid="5426" />
+                    <RANKING order="2" place="2" resultid="5240" />
+                    <RANKING order="3" place="3" resultid="5096" />
+                    <RANKING order="4" place="4" resultid="5477" />
+                  </RANKINGS>
+                </AGEGROUP>
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5811" number="1" order="1" status="OFFICIAL" />
+              </HEATS>
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+      </SESSIONS>
+      <CLUBS>
+        <CLUB type="CLUB" code="18656" nation="BRA" region="PR" clubid="1254" name="Instituto Daniel Dias" />
+        <CLUB type="CLUB" code="10546" nation="BRA" region="PR" clubid="2040" name="Colégio Positivo">
+          <ATHLETES>
+            <ATHLETE firstname="Letícia" lastname="Simioni Da Silva" birthdate="2008-12-17" gender="F" nation="BRA" athleteid="5478">
+              <RESULTS>
+                <RESULT eventid="1128" points="41" swimtime="00:01:10.69" resultid="5479" heatid="5774" lane="4" entrytime="00:01:22.40" />
+                <RESULT eventid="1136" points="55" swimtime="00:01:14.59" resultid="5480" heatid="5780" lane="3" entrytime="00:01:26.32" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriela" lastname="Tadra Sfeir" birthdate="2012-03-04" gender="F" nation="BRA" athleteid="5469">
+              <RESULTS>
+                <RESULT eventid="1104" status="DNS" swimtime="00:00:00.00" resultid="5470" heatid="5747" lane="2" entrytime="00:00:49.79" />
+                <RESULT eventid="1112" status="DNS" swimtime="00:00:00.00" resultid="5471" heatid="5763" lane="4" entrytime="00:00:54.36" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Tiago" lastname="Brito Menghin Beraldo" birthdate="2008-07-09" gender="M" nation="BRA" athleteid="5466">
+              <RESULTS>
+                <RESULT eventid="1138" points="132" swimtime="00:00:48.89" resultid="5467" heatid="5781" lane="3" entrytime="00:00:48.09" />
+                <RESULT eventid="1146" points="146" swimtime="00:00:38.25" resultid="5468" heatid="5797" lane="3" entrytime="00:00:35.75" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Eduardo" lastname="Tonetto Mendes" birthdate="2012-07-19" gender="M" nation="BRA" athleteid="5481">
+              <RESULTS>
+                <RESULT eventid="1090" points="59" swimtime="00:01:04.05" resultid="5482" heatid="5728" lane="3" entrytime="00:01:06.90" />
+                <RESULT eventid="1106" points="53" swimtime="00:00:53.52" resultid="5483" heatid="5754" lane="6" entrytime="00:00:53.38" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Davi" lastname="Liebel Santiago" birthdate="2013-07-21" gender="M" nation="BRA" athleteid="5484">
+              <RESULTS>
+                <RESULT eventid="1102" points="57" swimtime="00:00:29.78" resultid="5816" heatid="5740" lane="1" late="yes" />
+                <RESULT eventid="1086" points="65" swimtime="00:00:22.54" resultid="5817" heatid="5722" lane="6" late="yes" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Guilherme" lastname="Bueno Simão" birthdate="2008-11-12" gender="M" nation="BRA" athleteid="5475">
+              <RESULTS>
+                <RESULT eventid="1130" points="134" swimtime="00:00:42.43" resultid="5476" heatid="5775" lane="3" entrytime="00:00:42.45" />
+                <RESULT eventid="1162" points="110" swimtime="00:01:42.68" resultid="5477" heatid="5811" lane="3" entrytime="00:01:43.91">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:46.22" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriela" lastname="Fortunato Siwek" birthdate="2010-05-28" gender="F" nation="BRA" athleteid="5472">
+              <RESULTS>
+                <RESULT eventid="1124" points="102" swimtime="00:00:52.14" resultid="5473" heatid="5772" lane="3" entrytime="00:00:50.90" />
+                <RESULT eventid="1132" points="136" swimtime="00:00:55.16" resultid="5474" heatid="5777" lane="4" entrytime="00:00:52.26" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18654" nation="BRA" region="PR" clubid="1479" name="Escolinha de Triathlon Formando Campeões" shortname="Escolinha de Triathlon">
+          <ATHLETES>
+            <ATHLETE firstname="Rodrigo" lastname="Medeiros Soares" birthdate="2013-12-20" gender="M" nation="BRA" athleteid="5514">
+              <RESULTS>
+                <RESULT eventid="1086" points="64" swimtime="00:00:22.67" resultid="5515" heatid="5724" lane="3" />
+                <RESULT eventid="1110" points="42" swimtime="00:00:57.64" resultid="5516" heatid="5757" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Pedro" lastname="Baldo Pinheiro Neto" birthdate="2011-02-19" gender="M" nation="BRA" athleteid="5525">
+              <RESULTS>
+                <RESULT eventid="1106" points="129" swimtime="00:00:39.87" resultid="5526" heatid="5751" lane="4" />
+                <RESULT eventid="1090" points="99" swimtime="00:00:53.83" resultid="5527" heatid="5728" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Jõao Gabriel" lastname="Rodrigues Jocowski Cabral" birthdate="2014-02-11" gender="M" nation="BRA" athleteid="5633">
+              <RESULTS>
+                <RESULT eventid="1094" points="73" swimtime="00:00:24.64" resultid="5634" heatid="5733" lane="5" />
+                <RESULT eventid="1110" points="95" swimtime="00:00:44.15" resultid="5635" heatid="5758" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Arlei" lastname="Alberton de Campos Neto" birthdate="2012-04-17" gender="M" nation="BRA" athleteid="5573">
+              <RESULTS>
+                <RESULT eventid="1106" points="124" swimtime="00:00:40.33" resultid="5574" heatid="5748" lane="3" />
+                <RESULT eventid="1114" points="70" swimtime="00:00:53.58" resultid="5575" heatid="5766" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Miguel José" lastname="Locatelli" birthdate="2012-02-17" gender="M" nation="BRA" athleteid="5558">
+              <RESULTS>
+                <RESULT eventid="1106" points="145" swimtime="00:00:38.36" resultid="5559" heatid="5751" lane="2" />
+                <RESULT eventid="1114" points="67" swimtime="00:00:54.31" resultid="5560" heatid="5766" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Miguel" lastname="Archanjo Parrillo" birthdate="2012-12-22" gender="M" nation="BRA" athleteid="5546">
+              <RESULTS>
+                <RESULT eventid="1106" points="139" swimtime="00:00:38.88" resultid="5547" heatid="5749" lane="2" />
+                <RESULT eventid="1114" points="70" swimtime="00:00:53.43" resultid="5548" heatid="5765" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Mathias" lastname="Campoli Figueira" birthdate="2015-03-28" gender="M" nation="BRA" athleteid="5624">
+              <RESULTS>
+                <RESULT eventid="1068" points="23" swimtime="00:00:35.78" resultid="5625" heatid="5710" lane="4" />
+                <RESULT eventid="1072" points="27" swimtime="00:00:30.16" resultid="5626" heatid="5712" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Nicolas" lastname="Borges de Brito" birthdate="2008-12-04" gender="M" nation="BRA" athleteid="5594">
+              <RESULTS>
+                <RESULT eventid="1146" points="238" swimtime="00:00:32.51" resultid="5595" heatid="5796" lane="4" />
+                <RESULT eventid="1154" points="184" swimtime="00:00:38.87" resultid="5596" heatid="5806" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Eduarda" lastname="Pavin" birthdate="2014-10-10" gender="F" nation="BRA" athleteid="5543">
+              <RESULTS>
+                <RESULT eventid="1082" points="139" swimtime="00:00:20.18" resultid="5544" heatid="5720" lane="1" />
+                <RESULT eventid="1092" points="90" swimtime="00:00:26.47" resultid="5545" heatid="5731" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana" lastname="Paula Cordeiro Vieira" birthdate="2008-07-04" gender="F" nation="BRA" athleteid="5528">
+              <RESULTS>
+                <RESULT eventid="1144" points="221" swimtime="00:00:37.90" resultid="5529" heatid="5794" lane="1" />
+                <RESULT eventid="1152" status="DNS" swimtime="00:00:00.00" resultid="5530" heatid="5804" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Davi" lastname="Leonidas de Sousa" birthdate="2012-01-02" gender="M" nation="BRA" athleteid="5509">
+              <RESULTS>
+                <RESULT eventid="1106" points="129" swimtime="00:00:39.86" resultid="5510" heatid="5752" lane="4" />
+                <RESULT eventid="1114" points="60" swimtime="00:00:56.40" resultid="5511" heatid="5764" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lara" lastname="Sophia Mendes de Sousa" birthdate="2011-12-26" gender="F" nation="BRA" athleteid="5537">
+              <RESULTS>
+                <RESULT eventid="1104" status="DNS" swimtime="00:00:00.00" resultid="5538" heatid="5743" lane="6" />
+                <RESULT eventid="1112" status="DNS" swimtime="00:00:00.00" resultid="5539" heatid="5759" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lorena Vitória" lastname="Justino Almeida" birthdate="2013-11-22" gender="F" nation="BRA" athleteid="5630">
+              <RESULTS>
+                <RESULT eventid="1082" points="100" swimtime="00:00:22.50" resultid="5631" heatid="5718" lane="1" />
+                <RESULT eventid="1092" points="67" swimtime="00:00:29.16" resultid="5632" heatid="5731" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Benjamin" lastname="Leão Silva" birthdate="2011-08-25" gender="M" nation="BRA" athleteid="5618">
+              <RESULTS>
+                <RESULT eventid="1098" points="85" swimtime="00:00:22.42" resultid="5619" heatid="5738" lane="1" />
+                <RESULT eventid="1106" points="139" swimtime="00:00:38.86" resultid="5620" heatid="5749" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Noah" lastname="Vitor Grande" birthdate="2016-04-05" gender="M" nation="BRA" athleteid="5534">
+              <RESULTS>
+                <RESULT eventid="1076" points="50" swimtime="00:00:27.81" resultid="5535" heatid="5715" lane="2" />
+                <RESULT eventid="1072" points="70" swimtime="00:00:21.94" resultid="5536" heatid="5713" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isadora" lastname="Alves de Souza" birthdate="2010-05-17" gender="F" nation="BRA" athleteid="5522">
+              <RESULTS>
+                <RESULT eventid="1140" points="173" swimtime="00:00:41.10" resultid="5523" heatid="5782" lane="3" />
+                <RESULT eventid="1148" points="103" swimtime="00:00:53.78" resultid="5524" heatid="5800" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Glendha wilczek" lastname="wilczek" birthdate="2012-08-03" gender="F" nation="BRA" athleteid="5561">
+              <RESULTS>
+                <RESULT eventid="1104" points="75" swimtime="00:00:54.28" resultid="5562" heatid="5744" lane="4" />
+                <RESULT eventid="1112" points="62" swimtime="00:01:03.48" resultid="5563" heatid="5761" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Eduarda" lastname="Cruz de Oliveira" birthdate="2008-05-26" gender="F" nation="BRA" athleteid="5570">
+              <RESULTS>
+                <RESULT eventid="1144" points="45" swimtime="00:01:04.24" resultid="5571" heatid="5793" lane="2" />
+                <RESULT eventid="1152" points="39" swimtime="00:01:14.14" resultid="5572" heatid="5805" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Aisha" lastname="Quevedo Nunes" birthdate="2014-12-07" gender="F" nation="BRA" athleteid="5636">
+              <RESULTS>
+                <RESULT eventid="1092" points="136" swimtime="00:00:23.06" resultid="5637" heatid="5729" lane="4" />
+                <RESULT eventid="1108" points="91" swimtime="00:00:50.93" resultid="5638" heatid="5755" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia" lastname="Brero" birthdate="2015-04-18" gender="F" nation="BRA" athleteid="5609">
+              <RESULTS>
+                <RESULT eventid="1059" points="39" swimtime="00:00:30.65" resultid="5610" heatid="5707" lane="6" />
+                <RESULT eventid="1066" points="42" swimtime="00:00:34.13" resultid="5611" heatid="5709" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Arthur" lastname="Guimarães Luz" birthdate="2014-04-10" gender="M" nation="BRA" athleteid="5639">
+              <RESULTS>
+                <RESULT eventid="1086" points="29" swimtime="00:00:29.23" resultid="5640" heatid="5724" lane="6" />
+                <RESULT eventid="1094" points="29" swimtime="00:00:33.52" resultid="5641" heatid="5733" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luciano" lastname="Preiss do Santos" birthdate="2009-03-23" gender="M" nation="BRA" athleteid="5627">
+              <RESULTS>
+                <RESULT eventid="1142" status="DNS" swimtime="00:00:00.00" resultid="5628" heatid="5792" lane="6" />
+                <RESULT eventid="1150" status="DNS" swimtime="00:00:00.00" resultid="5629" heatid="5802" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lucy" lastname="Laura Santibanez Alvez" birthdate="2013-04-08" gender="F" nation="BRA" athleteid="5506">
+              <RESULTS>
+                <RESULT eventid="1082" points="142" swimtime="00:00:20.04" resultid="5507" heatid="5718" lane="6" />
+                <RESULT eventid="1108" points="179" swimtime="00:00:40.68" resultid="5508" heatid="5756" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Serena" lastname="Lima Dantas" birthdate="2015-09-29" gender="F" nation="BRA" athleteid="5531">
+              <RESULTS>
+                <RESULT eventid="1074" points="17" swimtime="00:00:45.48" resultid="5532" heatid="5714" lane="3" />
+                <RESULT eventid="1070" points="20" swimtime="00:00:38.05" resultid="5533" heatid="5711" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Rafael Henrique" lastname="AndreJczuk" birthdate="2007-12-03" gender="M" nation="BRA" athleteid="5579">
+              <RESULTS>
+                <RESULT eventid="1146" points="188" swimtime="00:00:35.18" resultid="5580" heatid="5796" lane="6" />
+                <RESULT eventid="1154" points="95" swimtime="00:00:48.44" resultid="5581" heatid="5807" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Eduarda" lastname="dos Santos Lima" birthdate="2011-09-11" gender="F" nation="BRA" athleteid="5615">
+              <RESULTS>
+                <RESULT eventid="1104" status="DNS" swimtime="00:00:00.00" resultid="5616" heatid="5744" lane="1" />
+                <RESULT eventid="1112" status="DNS" swimtime="00:00:00.00" resultid="5617" heatid="5763" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sofia" lastname="Pachekoski Barbosa" birthdate="2015-06-05" gender="F" nation="BRA" athleteid="5564">
+              <RESULTS>
+                <RESULT eventid="1059" points="33" swimtime="00:00:32.44" resultid="5565" heatid="5707" lane="1" />
+                <RESULT eventid="1066" points="16" swimtime="00:00:46.25" resultid="5566" heatid="5709" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maristella" lastname="Brime Consorte" birthdate="2012-08-10" gender="F" nation="BRA" athleteid="5612">
+              <RESULTS>
+                <RESULT eventid="1104" points="96" swimtime="00:00:50.06" resultid="5613" heatid="5747" lane="1" />
+                <RESULT eventid="1112" points="41" swimtime="00:01:12.80" resultid="5614" heatid="5763" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Guilherme" lastname="Franzon Trindade" birthdate="2009-12-11" gender="M" nation="BRA" athleteid="5600">
+              <RESULTS>
+                <RESULT eventid="1142" points="93" swimtime="00:00:44.37" resultid="5602" heatid="5789" lane="5" />
+                <RESULT eventid="1150" points="71" swimtime="00:00:53.18" resultid="5812" heatid="5802" lane="6" late="yes" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Júlia" lastname="Araújo Belo" birthdate="2009-01-29" gender="F" nation="BRA" athleteid="5603">
+              <RESULTS>
+                <RESULT eventid="1140" points="272" swimtime="00:00:35.36" resultid="5605" heatid="5782" lane="2" />
+                <RESULT eventid="1148" points="152" swimtime="00:00:47.28" resultid="5706" heatid="5798" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Milena Isabela" lastname="Meirelles Oliveira" birthdate="2015-04-22" gender="F" nation="BRA" athleteid="5519">
+              <RESULTS>
+                <RESULT eventid="1074" points="92" swimtime="00:00:26.25" resultid="5520" heatid="5714" lane="4" />
+                <RESULT eventid="1070" points="69" swimtime="00:00:25.43" resultid="5521" heatid="5711" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Miguel" lastname="Pellin Alves" birthdate="2016-03-02" gender="M" nation="BRA" athleteid="5606">
+              <RESULTS>
+                <RESULT eventid="1062" points="9" swimtime="00:00:42.17" resultid="5607" heatid="5708" lane="5" />
+                <RESULT eventid="1068" points="6" swimtime="00:00:53.93" resultid="5608" heatid="5710" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="João" lastname="Lucas Pinheiro" birthdate="2015-09-03" gender="M" nation="BRA" athleteid="5517">
+              <RESULTS>
+                <RESULT eventid="1072" points="25" swimtime="00:00:30.80" resultid="5518" heatid="5713" lane="2" />
+                <RESULT eventid="1076" points="23" swimtime="00:00:35.89" resultid="5813" heatid="5716" lane="1" late="yes" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Marcos" lastname="Pietro Hasse" birthdate="2013-02-06" gender="M" nation="BRA" athleteid="5540">
+              <RESULTS>
+                <RESULT eventid="1086" points="151" swimtime="00:00:17.05" resultid="5541" heatid="5723" lane="6" />
+                <RESULT eventid="1110" points="152" swimtime="00:00:37.71" resultid="5542" heatid="5758" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Murilo" lastname="dos Santos" birthdate="2015-08-03" gender="M" nation="BRA" athleteid="5591">
+              <RESULTS>
+                <RESULT eventid="1072" points="80" swimtime="00:00:21.04" resultid="5592" heatid="5713" lane="5" />
+                <RESULT eventid="1076" points="70" swimtime="00:00:24.93" resultid="5593" heatid="5716" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gustavo" lastname="Barrionuevo Costa" birthdate="2013-05-25" gender="M" nation="BRA" athleteid="5549">
+              <RESULTS>
+                <RESULT eventid="1094" points="28" swimtime="00:00:33.77" resultid="5550" heatid="5734" lane="3" />
+                <RESULT eventid="1110" status="DNS" swimtime="00:00:00.00" resultid="5702" heatid="5757" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lavinia" lastname="Gomes dos Santos" birthdate="2012-08-09" gender="F" nation="BRA" athleteid="5588">
+              <RESULTS>
+                <RESULT eventid="1104" points="104" swimtime="00:00:48.74" resultid="5589" heatid="5741" lane="4" />
+                <RESULT eventid="1112" points="93" swimtime="00:00:55.62" resultid="5590" heatid="5759" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luana" lastname="Peres Rigoni" birthdate="2009-06-05" gender="F" nation="BRA" athleteid="5576">
+              <RESULTS>
+                <RESULT eventid="1140" points="81" swimtime="00:00:52.97" resultid="5577" heatid="5783" lane="1" />
+                <RESULT eventid="1148" points="84" swimtime="00:00:57.51" resultid="5578" heatid="5799" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana Alice" lastname="Rodrigues da Silva" birthdate="2016-08-13" gender="F" nation="BRA" athleteid="5597">
+              <RESULTS>
+                <RESULT eventid="1059" points="22" swimtime="00:00:37.21" resultid="5598" heatid="5707" lane="4" />
+                <RESULT eventid="1066" points="8" swimtime="00:00:58.44" resultid="5599" heatid="5709" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Bruna Helena" lastname=" de Carvalho Kinauber" birthdate="2011-02-25" gender="F" nation="BRA" athleteid="5585">
+              <RESULTS>
+                <RESULT eventid="1104" points="191" swimtime="00:00:39.78" resultid="5586" heatid="5743" lane="1" />
+                <RESULT eventid="1112" points="155" swimtime="00:00:46.97" resultid="5587" heatid="5761" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lara" lastname="Ferreira Nogas" birthdate="2016-03-23" gender="F" nation="BRA" athleteid="5567">
+              <RESULTS>
+                <RESULT eventid="1059" points="78" swimtime="00:00:24.42" resultid="5568" heatid="5707" lane="2" />
+                <RESULT eventid="1066" points="45" swimtime="00:00:33.19" resultid="5569" heatid="5709" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Théo" lastname="de Freitas Pellizzetti" birthdate="2013-06-08" gender="M" nation="BRA" athleteid="5582">
+              <RESULTS>
+                <RESULT eventid="1086" points="39" swimtime="00:00:26.66" resultid="5583" heatid="5724" lane="1" />
+                <RESULT eventid="1094" points="34" swimtime="00:00:31.53" resultid="5584" heatid="5734" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Emannuel" lastname="Garcia Pinto" birthdate="2014-06-15" gender="M" nation="BRA" athleteid="5512">
+              <RESULTS>
+                <RESULT eventid="1086" points="32" swimtime="00:00:28.33" resultid="5513" heatid="5724" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Anna" lastname="Laura Baldunio Ferst" birthdate="2012-12-27" gender="F" nation="BRA" athleteid="5621">
+              <RESULTS>
+                <RESULT eventid="1104" points="148" swimtime="00:00:43.27" resultid="5622" heatid="5746" lane="6" />
+                <RESULT eventid="1096" points="66" swimtime="00:00:27.66" resultid="5623" heatid="5737" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Yasmin" lastname="Bertoli Polli" birthdate="2012-03-21" gender="F" nation="BRA" athleteid="5555">
+              <RESULTS>
+                <RESULT eventid="1104" points="197" swimtime="00:00:39.39" resultid="5556" heatid="5741" lane="2" />
+                <RESULT eventid="1112" points="93" swimtime="00:00:55.70" resultid="5557" heatid="5761" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Melissa" lastname="Bertoli Polli" birthdate="2015-06-02" gender="F" nation="BRA" athleteid="5552">
+              <RESULTS>
+                <RESULT eventid="1059" points="97" swimtime="00:00:22.75" resultid="5553" heatid="5707" lane="5" />
+                <RESULT eventid="1066" points="21" swimtime="00:00:42.83" resultid="5554" heatid="5709" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="13517" nation="BRA" region="PR" clubid="4998" name="Academia Studio Corpo Livre" shortname="Corpo Livre">
+          <ATHLETES>
+            <ATHLETE firstname="Helena" lastname="Paubel" birthdate="2010-10-25" gender="F" nation="BRA" athleteid="4999">
+              <RESULTS>
+                <RESULT eventid="1140" points="186" swimtime="00:00:40.14" resultid="5001" heatid="5786" lane="2" entrytime="00:00:52.00" />
+                <RESULT eventid="1148" points="130" swimtime="00:00:49.79" resultid="5703" heatid="5801" lane="3" entrytime="00:00:36.00" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18658" nation="BRA" region="PR" clubid="2204" name="Rocco Fitness Club" shortname="Rocco Fitness">
+          <ATHLETES>
+            <ATHLETE firstname="Henrique" lastname="Arruda Monteiro" birthdate="2009-01-31" gender="M" nation="BRA" athleteid="5670">
+              <RESULTS>
+                <RESULT eventid="1134" points="155" swimtime="00:00:46.42" resultid="5671" heatid="5779" lane="4" entrytime="00:00:44.28" />
+                <RESULT eventid="1142" points="197" swimtime="00:00:34.62" resultid="5672" heatid="5792" lane="4" entrytime="00:00:32.97" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isabela" lastname="Miretzki" birthdate="2014-09-17" gender="F" nation="BRA" athleteid="5667">
+              <RESULTS>
+                <RESULT eventid="1100" points="72" swimtime="00:00:31.56" resultid="5668" heatid="5739" lane="1" />
+                <RESULT eventid="1108" points="152" swimtime="00:00:42.95" resultid="5669" heatid="5756" lane="3" entrytime="00:00:42.38" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Otavio" lastname="Wilson Ribeiro" birthdate="2014-09-14" gender="M" nation="BRA" athleteid="5660" />
+            <ATHLETE firstname="Petherson" lastname="Gouveia Camargo Mina" birthdate="2014-08-25" gender="M" nation="BRA" athleteid="5657">
+              <RESULTS>
+                <RESULT eventid="1086" points="62" swimtime="00:00:22.90" resultid="5658" heatid="5722" lane="4" />
+                <RESULT eventid="1094" points="42" swimtime="00:00:29.52" resultid="5659" heatid="5735" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Eduardo" lastname="De Almeida Lazzarin" birthdate="2011-06-01" gender="M" nation="BRA" athleteid="5654">
+              <RESULTS>
+                <RESULT eventid="1090" points="103" swimtime="00:00:53.21" resultid="5655" heatid="5728" lane="4" />
+                <RESULT eventid="1106" points="107" swimtime="00:00:42.38" resultid="5656" heatid="5754" lane="1" entrytime="00:00:45.32" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lucas" lastname="Gonçalves Pinto Junior" birthdate="2013-12-06" gender="M" nation="BRA" athleteid="5664">
+              <RESULTS>
+                <RESULT eventid="1086" points="45" swimtime="00:00:25.44" resultid="5665" heatid="5723" lane="2" />
+                <RESULT eventid="1094" points="26" swimtime="00:00:34.58" resultid="5666" heatid="5733" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Emanuel" lastname="Lucas Ribeiro" birthdate="2014-03-28" gender="M" nation="BRA" athleteid="5673">
+              <RESULTS>
+                <RESULT eventid="1102" points="84" swimtime="00:00:26.15" resultid="5674" heatid="5740" lane="4" />
+                <RESULT eventid="1110" points="93" swimtime="00:00:44.46" resultid="5675" heatid="5758" lane="2" entrytime="00:00:44.90" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Murilo" lastname="Miretzki" birthdate="2008-12-03" gender="M" nation="BRA" athleteid="5661">
+              <RESULTS>
+                <RESULT eventid="1130" points="83" swimtime="00:00:49.68" resultid="5662" heatid="5775" lane="6" />
+                <RESULT eventid="1146" points="208" swimtime="00:00:33.98" resultid="5663" heatid="5795" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18652" nation="BRA" region="PR" clubid="2062" name="Equipe Mosko Swim" shortname="Mosko Swim">
+          <ATHLETES>
+            <ATHLETE firstname="Samuel" lastname="Koloda" birthdate="2013-06-17" gender="M" nation="BRA" athleteid="5493">
+              <RESULTS>
+                <RESULT eventid="1086" points="16" swimtime="00:00:35.58" resultid="5494" heatid="5723" lane="4" />
+                <RESULT eventid="1094" points="22" swimtime="00:00:36.71" resultid="5495" heatid="5734" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isaac Ferreira" lastname="Avansini" birthdate="2015-05-22" gender="M" nation="BRA" athleteid="5496">
+              <RESULTS>
+                <RESULT eventid="1062" points="3" swimtime="00:00:57.76" resultid="5497" heatid="5708" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Miguel Herdan Ferreira de Araú" lastname="Gonçalves" birthdate="2013-03-01" gender="M" nation="BRA" athleteid="5498">
+              <RESULTS>
+                <RESULT eventid="1086" points="18" swimtime="00:00:34.21" resultid="5499" heatid="5722" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Felipe Eduardo Herrero" lastname="Mosko" birthdate="2014-03-16" gender="M" nation="BRA" athleteid="5490">
+              <RESULTS>
+                <RESULT eventid="1086" points="50" swimtime="00:00:24.64" resultid="5491" heatid="5723" lane="1" />
+                <RESULT eventid="1102" points="42" swimtime="00:00:32.77" resultid="5492" heatid="5740" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Pedro Henrique" lastname="Negosseque" birthdate="2014-05-27" gender="M" nation="BRA" athleteid="5487">
+              <RESULTS>
+                <RESULT eventid="1086" points="31" swimtime="00:00:28.61" resultid="5488" heatid="5725" lane="6" />
+                <RESULT eventid="1094" points="33" swimtime="00:00:32.04" resultid="5489" heatid="5734" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18660	" nation="BRA" region="PR" clubid="1503" name="Triax Multisports" shortname="Triax">
+          <ATHLETES>
+            <ATHLETE firstname="João" lastname="Leopoldo Ansbach Lopes Gonçalves" birthdate="2015-01-10" gender="M" nation="BRA" athleteid="5685">
+              <RESULTS>
+                <RESULT eventid="1072" points="138" swimtime="00:00:17.53" resultid="5686" heatid="5713" lane="1" />
+                <RESULT eventid="1076" points="96" swimtime="00:00:22.44" resultid="5687" heatid="5715" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luiz" lastname="Felipe Pirini da Silva" birthdate="2009-03-06" gender="M" nation="BRA" athleteid="5679">
+              <RESULTS>
+                <RESULT eventid="1142" points="113" swimtime="00:00:41.63" resultid="5680" heatid="5788" lane="4" />
+                <RESULT eventid="1158" points="125" swimtime="00:01:38.44" resultid="5681" heatid="5809" lane="2">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:46.27" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia" lastname="Moreira Silveira" birthdate="2011-06-18" gender="F" nation="BRA" athleteid="5676">
+              <RESULTS>
+                <RESULT eventid="1104" points="183" swimtime="00:00:40.35" resultid="5677" heatid="5747" lane="6" />
+                <RESULT eventid="1112" points="106" swimtime="00:00:53.22" resultid="5678" heatid="5760" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Matheus" lastname="Mattar Assad Guimarães" birthdate="2014-04-07" gender="M" nation="BRA" athleteid="5682">
+              <RESULTS>
+                <RESULT eventid="1086" points="38" swimtime="00:00:26.78" resultid="5683" heatid="5724" lane="5" />
+                <RESULT eventid="1094" points="17" swimtime="00:00:40.03" resultid="5684" heatid="5734" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sarah" lastname="Dylan Schmitz" birthdate="2008-05-18" gender="F" nation="BRA" athleteid="5694">
+              <RESULTS>
+                <RESULT eventid="1144" points="217" swimtime="00:00:38.13" resultid="5695" heatid="5793" lane="1" />
+                <RESULT eventid="1152" points="156" swimtime="00:00:46.86" resultid="5696" heatid="5804" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Guilherme" lastname="do Nascimento Gasparin Teixeira" birthdate="2014-03-04" gender="M" nation="BRA" athleteid="5688">
+              <RESULTS>
+                <RESULT eventid="1094" points="77" swimtime="00:00:24.17" resultid="5689" heatid="5733" lane="4" />
+                <RESULT eventid="1110" points="88" swimtime="00:00:45.20" resultid="5690" heatid="5757" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana" lastname="Lara de Souza Lied" birthdate="2014-03-04" gender="F" nation="BRA" athleteid="5691">
+              <RESULTS>
+                <RESULT eventid="1082" points="35" swimtime="00:00:31.92" resultid="5692" heatid="5719" lane="5" />
+                <RESULT eventid="1092" points="31" swimtime="00:00:37.67" resultid="5693" heatid="5731" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18662" nation="BRA" region="PR" clubid="5697" name="Trieste Stadium" shortname="Trieste ">
+          <ATHLETES>
+            <ATHLETE firstname="Vitor" lastname="Bazzi Vaz" birthdate="2009-11-11" gender="M" nation="BRA" athleteid="5698">
+              <RESULTS>
+                <RESULT eventid="1126" points="186" swimtime="00:00:38.04" resultid="5699" heatid="5773" lane="4" />
+                <RESULT eventid="1142" points="255" swimtime="00:00:31.77" resultid="5700" heatid="5791" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18646" nation="BRA" region="PR" clubid="1735" swrid="93766" name="Associação Nadar Colombo" shortname="Equipe Nadar">
+          <ATHLETES>
+            <ATHLETE firstname="Letícia" lastname="Vitória de Lima das Neves" birthdate="2013-05-14" gender="F" nation="BRA" athleteid="5043">
+              <RESULTS>
+                <RESULT eventid="1108" status="DNS" swimtime="00:00:00.00" resultid="5044" heatid="5756" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Logan" lastname="André dos Santos" birthdate="2015-10-21" gender="M" nation="BRA" athleteid="5049">
+              <RESULTS>
+                <RESULT eventid="1062" status="DNS" swimtime="00:00:00.00" resultid="5050" heatid="5708" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Nicole" lastname="Videira" birthdate="2010-08-10" gender="F" nation="BRA" athleteid="5055">
+              <RESULTS>
+                <RESULT eventid="1140" status="DNS" swimtime="00:00:00.00" resultid="5056" heatid="5783" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Pablo" lastname="Henrique da Silva" birthdate="2014-10-29" gender="M" nation="BRA" athleteid="5047">
+              <RESULTS>
+                <RESULT eventid="1110" status="DNS" swimtime="00:00:00.00" resultid="5048" heatid="5757" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Valentina" lastname="Cristina Rosner" birthdate="2015-04-02" gender="F" nation="BRA" athleteid="5051">
+              <RESULTS>
+                <RESULT eventid="1059" status="DNS" swimtime="00:00:00.00" resultid="5052" heatid="5707" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Davi" lastname="Guilherme Oliveira da Fonseca Pereira" birthdate="2012-07-02" gender="M" nation="BRA" athleteid="5059">
+              <RESULTS>
+                <RESULT eventid="1106" status="DNS" swimtime="00:00:00.00" resultid="5060" heatid="5748" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Vitor" lastname="Augusto Carvalho" birthdate="2011-01-18" gender="M" nation="BRA" athleteid="5053">
+              <RESULTS>
+                <RESULT eventid="1106" status="DNS" swimtime="00:00:00.00" resultid="5054" heatid="5750" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana" lastname="Júlia de Faria Taborda Graciano" birthdate="2013-12-17" gender="F" nation="BRA" athleteid="5045">
+              <RESULTS>
+                <RESULT eventid="1108" status="DNS" swimtime="00:00:00.00" resultid="5046" heatid="5755" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Rafael" lastname="Alves Pina" birthdate="2011-05-04" gender="M" nation="BRA" athleteid="5057">
+              <RESULTS>
+                <RESULT eventid="1106" status="DNS" swimtime="00:00:00.00" resultid="5058" heatid="5750" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lorran" lastname="Silva Brito" birthdate="2012-04-12" gender="M" nation="BRA" athleteid="5041">
+              <RESULTS>
+                <RESULT eventid="1106" status="DNS" swimtime="00:00:00.00" resultid="5042" heatid="5752" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="9073" nation="BRA" region="PR" clubid="1666" name="Academia Gustavo Borges" shortname="Gustavo Borges">
+          <ATHLETES>
+            <ATHLETE firstname="Valentina" lastname="Faustino" birthdate="2013-09-27" gender="F" nation="BRA" athleteid="4934">
+              <RESULTS>
+                <RESULT eventid="1082" points="237" swimtime="00:00:16.90" resultid="4935" heatid="5720" lane="5" />
+                <RESULT eventid="1108" points="270" swimtime="00:00:35.47" resultid="4936" heatid="5755" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="10918" nation="BRA" region="PR" clubid="3297" name="Academia Nado Livre" shortname="Nado Livre">
+          <ATHLETES>
+            <ATHLETE firstname="Manoela" lastname="Carlin" birthdate="2007-10-17" gender="F" nation="BRA" athleteid="5500">
+              <RESULTS>
+                <RESULT eventid="1136" status="DNS" swimtime="00:00:00.00" resultid="5501" heatid="5780" lane="4" />
+                <RESULT eventid="1144" points="337" swimtime="00:00:32.93" resultid="5502" heatid="5794" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18648" nation="BRA" region="PR" clubid="1178" name="Clube da Gente, Boa Vista" shortname="Clube da Gente BV">
+          <ATHLETES>
+            <ATHLETE firstname="Gustavo Aguinelo Ferreira da S" lastname="Dias" birthdate="2008-01-18" gender="M" nation="BRA" athleteid="5082">
+              <RESULTS>
+                <RESULT eventid="1130" points="137" swimtime="00:00:42.17" resultid="5083" heatid="5775" lane="5" />
+                <RESULT eventid="1154" points="175" swimtime="00:00:39.47" resultid="5084" heatid="5807" lane="3" entrytime="00:00:42.85" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriela Fernandes" lastname="dos Santos" birthdate="2012-10-31" gender="F" nation="BRA" athleteid="5166">
+              <RESULTS>
+                <RESULT eventid="1088" status="DNS" swimtime="00:00:00.00" resultid="5167" heatid="5726" lane="4" />
+                <RESULT eventid="1104" points="109" swimtime="00:00:47.97" resultid="5168" heatid="5745" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Clara Santos" lastname="Carvalho" birthdate="2010-11-08" gender="F" nation="BRA" athleteid="5202">
+              <RESULTS>
+                <RESULT eventid="1140" points="196" swimtime="00:00:39.41" resultid="5203" heatid="5784" lane="2" />
+                <RESULT eventid="1148" points="94" swimtime="00:00:55.38" resultid="5204" heatid="5800" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gustavo Gabriel Queiroz" lastname="Dawidowicz" birthdate="2008-07-18" gender="M" nation="BRA" athleteid="5079">
+              <RESULTS>
+                <RESULT eventid="1146" status="DNS" swimtime="00:00:00.00" resultid="5080" heatid="5795" lane="3" />
+                <RESULT eventid="1154" status="DNS" swimtime="00:00:00.00" resultid="5081" heatid="5807" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Nayara Lemasson" lastname="Tortora" birthdate="2010-05-07" gender="F" nation="BRA" athleteid="5106">
+              <RESULTS>
+                <RESULT eventid="1140" points="168" swimtime="00:00:41.51" resultid="5107" heatid="5787" lane="2" entrytime="00:00:41.56" />
+                <RESULT eventid="1148" points="199" swimtime="00:00:43.22" resultid="5108" heatid="5801" lane="4" entrytime="00:00:46.28" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Theo Melo" lastname="Graczyk" birthdate="2012-09-01" gender="M" nation="BRA" athleteid="5064">
+              <RESULTS>
+                <RESULT eventid="1106" points="96" swimtime="00:00:43.95" resultid="5065" heatid="5752" lane="3" />
+                <RESULT eventid="1114" points="78" swimtime="00:00:51.63" resultid="5066" heatid="5766" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Helena Zucchi Hermes" lastname="Dreer" birthdate="2013-11-06" gender="F" nation="BRA" athleteid="5199">
+              <RESULTS>
+                <RESULT eventid="1082" status="DNS" swimtime="00:00:00.00" resultid="5200" heatid="5721" lane="3" entrytime="00:00:21.91" />
+                <RESULT eventid="1100" status="DNS" swimtime="00:00:00.00" resultid="5201" heatid="5739" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Luiza de Paula" lastname="Lopes" birthdate="2014-04-22" gender="F" nation="BRA" athleteid="5187">
+              <RESULTS>
+                <RESULT eventid="1082" status="DNS" swimtime="00:00:00.00" resultid="5188" heatid="5718" lane="3" />
+                <RESULT eventid="1092" status="DNS" swimtime="00:00:00.00" resultid="5189" heatid="5730" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Clara Cruz" lastname="Ribeiro" birthdate="2011-08-09" gender="F" nation="BRA" athleteid="5178">
+              <RESULTS>
+                <RESULT eventid="1104" points="120" swimtime="00:00:46.36" resultid="5179" heatid="5747" lane="5" />
+                <RESULT eventid="1112" points="58" swimtime="00:01:05.13" resultid="5180" heatid="5760" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana Carolina Cordeiro" lastname="Favoretto" birthdate="2009-06-29" gender="F" nation="BRA" athleteid="5097">
+              <RESULTS>
+                <RESULT eventid="1140" points="159" swimtime="00:00:42.26" resultid="5098" heatid="5787" lane="6" entrytime="00:00:42.67" />
+                <RESULT eventid="1148" points="121" swimtime="00:00:50.97" resultid="5099" heatid="5801" lane="5" entrytime="00:00:49.52" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Rafaella Armstrong" lastname="Padilha" birthdate="2014-03-14" gender="F" nation="BRA" athleteid="5219" />
+            <ATHLETE firstname="Guilherme Locatelli" lastname="Zanini" birthdate="2012-01-26" gender="M" nation="BRA" athleteid="5229">
+              <RESULTS>
+                <RESULT eventid="1106" status="DNS" swimtime="00:00:00.00" resultid="5230" heatid="5754" lane="2" entrytime="00:00:38.08" />
+                <RESULT eventid="1114" status="DNS" swimtime="00:00:00.00" resultid="5231" heatid="5767" lane="4" entrytime="00:00:47.85" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Manuella Paluch" lastname="Vieira" birthdate="2012-03-25" gender="F" nation="BRA" athleteid="5163">
+              <RESULTS>
+                <RESULT eventid="1088" points="78" swimtime="00:01:06.26" resultid="5164" heatid="5726" lane="2" />
+                <RESULT eventid="1104" points="52" swimtime="00:01:01.34" resultid="5165" heatid="5741" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isabela" lastname="Camacho" birthdate="2014-07-29" gender="F" nation="BRA" athleteid="5155">
+              <RESULTS>
+                <RESULT eventid="1082" points="58" swimtime="00:00:26.89" resultid="5156" heatid="5720" lane="4" entrytime="00:00:29.88" />
+                <RESULT eventid="1092" points="76" swimtime="00:00:27.96" resultid="5157" heatid="5732" lane="5" entrytime="00:00:31.39" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="João Marcos" lastname="Morais" birthdate="2010-01-30" gender="M" nation="BRA" athleteid="5133">
+              <RESULTS>
+                <RESULT eventid="1134" points="209" swimtime="00:00:42.01" resultid="5134" heatid="5779" lane="3" entrytime="00:00:43.02" />
+                <RESULT eventid="1158" points="243" swimtime="00:01:18.96" resultid="5135" heatid="5809" lane="3" entrytime="00:01:24.02">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:36.68" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lays Aparecida Correa" lastname="da Silva" birthdate="2009-04-30" gender="F" nation="BRA" athleteid="5244">
+              <RESULTS>
+                <RESULT eventid="1140" points="96" swimtime="00:00:50.07" resultid="5245" heatid="5786" lane="5" entrytime="00:00:52.02" />
+                <RESULT eventid="1148" points="93" swimtime="00:00:55.64" resultid="5246" heatid="5800" lane="4" entrytime="00:00:58.46" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Leonardo K." lastname="Veloso" birthdate="2010-05-09" gender="M" nation="BRA" athleteid="5154" />
+            <ATHLETE firstname="Davi Miguel Novaki Lechinhoski" lastname="Calsavara" birthdate="2014-11-22" gender="M" nation="BRA" athleteid="5112">
+              <RESULTS>
+                <RESULT eventid="1086" points="36" swimtime="00:00:27.42" resultid="5113" heatid="5725" lane="1" entrytime="00:00:36.75" />
+                <RESULT eventid="1094" points="29" swimtime="00:00:33.34" resultid="5114" heatid="5735" lane="2" entrytime="00:00:38.36" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isabella Calliari" lastname="Silvestro" birthdate="2010-12-16" gender="F" nation="BRA" athleteid="5148">
+              <RESULTS>
+                <RESULT eventid="1124" points="81" swimtime="00:00:56.27" resultid="5149" heatid="5772" lane="4" entrytime="00:01:04.54" />
+                <RESULT eventid="1140" points="171" swimtime="00:00:41.25" resultid="5150" heatid="5786" lane="3" entrytime="00:00:45.52" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luiz Antônio Correa" lastname="da Silva" birthdate="2007-04-30" gender="M" nation="BRA" athleteid="5094">
+              <RESULTS>
+                <RESULT eventid="1146" points="233" swimtime="00:00:32.73" resultid="5095" heatid="5796" lane="3" />
+                <RESULT eventid="1162" points="131" swimtime="00:01:36.94" resultid="5096" heatid="5811" lane="4">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:46.05" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="João Gustavo Teodoro" lastname="de Almeida" birthdate="2007-02-12" gender="M" nation="BRA" athleteid="5235">
+              <RESULTS>
+                <RESULT eventid="1138" status="DNS" swimtime="00:00:00.00" resultid="5236" heatid="5781" lane="5" />
+                <RESULT eventid="1146" status="DNS" swimtime="00:00:00.00" resultid="5237" heatid="5795" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Agatha Roberta dos Santos" lastname="Arrabal" birthdate="2011-07-21" gender="F" nation="BRA" athleteid="5213">
+              <RESULTS>
+                <RESULT eventid="1104" points="84" swimtime="00:00:52.32" resultid="5214" heatid="5742" lane="5" />
+                <RESULT eventid="1112" points="52" swimtime="00:01:07.53" resultid="5215" heatid="5761" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="André Henrique Santana" lastname="Oliveira" birthdate="2011-10-25" gender="M" nation="BRA" athleteid="5196">
+              <RESULTS>
+                <RESULT eventid="1106" points="110" swimtime="00:00:42.03" resultid="5197" heatid="5754" lane="5" entrytime="00:00:43.07" />
+                <RESULT eventid="1114" points="98" swimtime="00:00:47.95" resultid="5198" heatid="5767" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Melanie Yasmin" lastname="Schinkein" birthdate="2011-12-13" gender="F" nation="BRA" athleteid="5184">
+              <RESULTS>
+                <RESULT eventid="1104" points="190" swimtime="00:00:39.82" resultid="5185" heatid="5743" lane="4" />
+                <RESULT eventid="1112" points="172" swimtime="00:00:45.38" resultid="5186" heatid="5762" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana Luíza de Oliveira" lastname="Rocha" birthdate="2007-08-28" gender="F" nation="BRA" athleteid="5151">
+              <RESULTS>
+                <RESULT eventid="1128" points="129" swimtime="00:00:48.21" resultid="5152" heatid="5774" lane="3" entrytime="00:01:00.88" />
+                <RESULT eventid="1160" points="113" swimtime="00:01:56.82" resultid="5153" heatid="5810" lane="3">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:49.54" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lavinea Betinardi" lastname="da Silva" birthdate="2013-09-09" gender="F" nation="BRA" athleteid="5205">
+              <RESULTS>
+                <RESULT eventid="1082" points="92" swimtime="00:00:23.12" resultid="5206" heatid="5721" lane="1" entrytime="00:00:24.03" />
+                <RESULT eventid="1092" points="80" swimtime="00:00:27.54" resultid="5207" heatid="5732" lane="2" entrytime="00:00:28.57" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriela Balbinot" lastname="Braga" birthdate="2010-07-15" gender="F" nation="BRA" athleteid="5139">
+              <RESULTS>
+                <RESULT eventid="1140" points="156" swimtime="00:00:42.56" resultid="5140" heatid="5787" lane="5" entrytime="00:00:42.56" />
+                <RESULT eventid="1148" points="119" swimtime="00:00:51.21" resultid="5141" heatid="5801" lane="1" entrytime="00:00:54.07" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia Ywata" lastname="Tuzzi" birthdate="2014-10-10" gender="F" nation="BRA" athleteid="5216">
+              <RESULTS>
+                <RESULT eventid="1082" points="57" swimtime="00:00:27.07" resultid="5217" heatid="5721" lane="6" entrytime="00:00:25.91" />
+                <RESULT eventid="1092" points="61" swimtime="00:00:30.03" resultid="5218" heatid="5732" lane="1" entrytime="00:00:31.50" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Aleander Estevão Pereira" lastname="da Cruz" birthdate="2008-12-29" gender="M" nation="BRA" athleteid="5115">
+              <RESULTS>
+                <RESULT eventid="1130" points="155" swimtime="00:00:40.43" resultid="5116" heatid="5775" lane="4" entrytime="00:00:42.91" />
+                <RESULT eventid="1146" points="163" swimtime="00:00:36.84" resultid="5117" heatid="5797" lane="4" entrytime="00:00:39.50" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Alexia Andreis" lastname="Ramos" birthdate="2010-06-26" gender="F" nation="BRA" athleteid="5085">
+              <RESULTS>
+                <RESULT eventid="1140" points="206" swimtime="00:00:38.81" resultid="5086" heatid="5787" lane="4" entrytime="00:00:38.10" />
+                <RESULT eventid="1148" points="186" swimtime="00:00:44.17" resultid="5087" heatid="5801" lane="2" entrytime="00:00:48.06" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Valentina Lima" lastname="Carrasco" birthdate="2013-01-30" gender="F" nation="BRA" athleteid="5220">
+              <RESULTS>
+                <RESULT eventid="1082" points="142" swimtime="00:00:20.04" resultid="5221" heatid="5721" lane="2" entrytime="00:00:22.56" />
+                <RESULT eventid="1092" points="132" swimtime="00:00:23.26" resultid="5222" heatid="5732" lane="3" entrytime="00:00:25.78" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Davi Lima" lastname="Defert" birthdate="2013-03-13" gender="M" nation="BRA" athleteid="5190">
+              <RESULTS>
+                <RESULT eventid="1086" points="109" swimtime="00:00:18.97" resultid="5191" heatid="5725" lane="3" entrytime="00:00:19.97" />
+                <RESULT eventid="1110" points="88" swimtime="00:00:45.17" resultid="5192" heatid="5758" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Rhinnata Julia" lastname="da Paz" birthdate="2012-09-11" gender="F" nation="BRA" athleteid="5175">
+              <RESULTS>
+                <RESULT eventid="1104" points="157" swimtime="00:00:42.42" resultid="5176" heatid="5746" lane="1" />
+                <RESULT eventid="1112" points="103" swimtime="00:00:53.78" resultid="5177" heatid="5759" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Vinícius da Silva" lastname="Lopes" birthdate="2011-02-23" gender="M" nation="BRA" athleteid="5223">
+              <RESULTS>
+                <RESULT eventid="1106" points="112" swimtime="00:00:41.82" resultid="5224" heatid="5748" lane="5" />
+                <RESULT eventid="1114" points="61" swimtime="00:00:55.96" resultid="5225" heatid="5767" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luísa Guimarães" lastname="Braga" birthdate="2008-03-24" gender="F" nation="BRA" athleteid="5124">
+              <RESULTS>
+                <RESULT eventid="1144" status="DNS" swimtime="00:00:00.00" resultid="5704" heatid="5793" lane="4" />
+                <RESULT eventid="1160" status="DNS" swimtime="00:00:00.00" resultid="5705" heatid="5810" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isadora Araújo" lastname="Farias" birthdate="2012-12-10" gender="F" nation="BRA" athleteid="5067">
+              <RESULTS>
+                <RESULT eventid="1088" points="102" swimtime="00:01:00.59" resultid="5068" heatid="5726" lane="3" />
+                <RESULT eventid="1104" points="92" swimtime="00:00:50.73" resultid="5069" heatid="5743" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isabela Vieira Ferreira" lastname="Cecon" birthdate="2012-05-19" gender="F" nation="BRA" athleteid="5181">
+              <RESULTS>
+                <RESULT eventid="1096" points="102" swimtime="00:00:23.94" resultid="5182" heatid="5737" lane="4" />
+                <RESULT eventid="1104" points="152" swimtime="00:00:42.94" resultid="5183" heatid="5743" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sophia Fernandes" lastname="Rodrigues" birthdate="2011-03-14" gender="F" nation="BRA" athleteid="5070">
+              <RESULTS>
+                <RESULT eventid="1096" points="105" swimtime="00:00:23.71" resultid="5071" heatid="5737" lane="5" />
+                <RESULT eventid="1104" points="129" swimtime="00:00:45.35" resultid="5072" heatid="5744" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Valentina" lastname="Pavoni" birthdate="2013-05-22" gender="F" nation="BRA" athleteid="5169">
+              <RESULTS>
+                <RESULT eventid="1082" points="51" swimtime="00:00:28.05" resultid="5170" heatid="5718" lane="4" />
+                <RESULT eventid="1092" points="81" swimtime="00:00:27.33" resultid="5171" heatid="5730" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Eduarda Scrock" lastname="de Liz" birthdate="2009-02-27" gender="F" nation="BRA" athleteid="5109">
+              <RESULTS>
+                <RESULT eventid="1140" points="122" swimtime="00:00:46.14" resultid="5110" heatid="5786" lane="4" entrytime="00:00:48.04" />
+                <RESULT eventid="1148" points="70" swimtime="00:01:01.12" resultid="5111" heatid="5800" lane="2" entrytime="00:00:58.59" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sara Crystine Pires" lastname="Virmond" birthdate="2010-06-10" gender="F" nation="BRA" athleteid="5127">
+              <RESULTS>
+                <RESULT eventid="1140" points="158" swimtime="00:00:42.40" resultid="5128" heatid="5786" lane="1" entrytime="00:00:52.21" />
+                <RESULT eventid="1148" points="140" swimtime="00:00:48.53" resultid="5129" heatid="5800" lane="3" entrytime="00:00:54.30" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Matheus Shigueto" lastname="Tabata" birthdate="2010-05-16" gender="M" nation="BRA" athleteid="5073">
+              <RESULTS>
+                <RESULT eventid="1142" points="122" swimtime="00:00:40.57" resultid="5074" heatid="5790" lane="6" />
+                <RESULT eventid="1150" points="85" swimtime="00:00:50.15" resultid="5075" heatid="5802" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Juliana Klettenberg Collaço" lastname="Medeiros" birthdate="2013-02-17" gender="F" nation="BRA" athleteid="5100">
+              <RESULTS>
+                <RESULT eventid="1082" points="87" swimtime="00:00:23.54" resultid="5101" heatid="5721" lane="5" entrytime="00:00:23.27" />
+                <RESULT eventid="1092" points="117" swimtime="00:00:24.26" resultid="5102" heatid="5732" lane="4" entrytime="00:00:26.42" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana Júlia Brasil" lastname="Magno" birthdate="2007-01-05" gender="F" nation="BRA" athleteid="5121">
+              <RESULTS>
+                <RESULT eventid="1144" points="149" swimtime="00:00:43.17" resultid="5122" heatid="5794" lane="3" entrytime="00:00:42.89" />
+                <RESULT eventid="1152" points="126" swimtime="00:00:50.29" resultid="5123" heatid="5805" lane="3" entrytime="00:00:52.40" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Alice Leah" lastname="Rodrigues" birthdate="2012-11-06" gender="F" nation="BRA" athleteid="5091">
+              <RESULTS>
+                <RESULT eventid="1104" points="63" swimtime="00:00:57.48" resultid="5092" heatid="5745" lane="6" />
+                <RESULT eventid="1112" points="62" swimtime="00:01:03.52" resultid="5093" heatid="5762" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Davi Cavichiolo" lastname="Cernach" birthdate="2013-01-18" gender="M" nation="BRA" athleteid="5232">
+              <RESULTS>
+                <RESULT eventid="1086" points="66" swimtime="00:00:22.37" resultid="5233" heatid="5722" lane="2" />
+                <RESULT eventid="1094" points="43" swimtime="00:00:29.18" resultid="5234" heatid="5734" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Emanuelle B." lastname="de Oliveira" birthdate="2013-04-30" gender="F" nation="BRA" athleteid="5158">
+              <RESULTS>
+                <RESULT eventid="1092" status="DNS" swimtime="00:00:00.00" resultid="5159" heatid="5732" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Giovana Isabella da Silva" lastname="Bueno" birthdate="2007-06-29" gender="F" nation="BRA" athleteid="5061">
+              <RESULTS>
+                <RESULT eventid="1144" points="119" swimtime="00:00:46.57" resultid="5062" heatid="5794" lane="4" entrytime="00:00:49.48" />
+                <RESULT eventid="1152" points="81" swimtime="00:00:58.29" resultid="5063" heatid="5805" lane="4" entrytime="00:00:58.41" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Vinícius Vicentini" lastname="Viana" birthdate="2009-11-19" gender="M" nation="BRA" athleteid="5241">
+              <RESULTS>
+                <RESULT eventid="1142" points="129" swimtime="00:00:39.87" resultid="5242" heatid="5792" lane="5" entrytime="00:00:40.66" />
+                <RESULT eventid="1150" points="78" swimtime="00:00:51.55" resultid="5243" heatid="5803" lane="2" entrytime="00:00:53.72" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Larissa Valera" lastname="Mozzaquatro" birthdate="2012-10-13" gender="F" nation="BRA" athleteid="5136">
+              <RESULTS>
+                <RESULT eventid="1104" points="228" swimtime="00:00:37.50" resultid="5137" heatid="5747" lane="3" entrytime="00:00:40.62" />
+                <RESULT eventid="1112" points="166" swimtime="00:00:45.86" resultid="5138" heatid="5763" lane="3" entrytime="00:00:47.32" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="João Vitor Fronza" lastname="da Silva" birthdate="2008-12-17" gender="M" nation="BRA" athleteid="5238">
+              <RESULTS>
+                <RESULT eventid="1146" points="240" swimtime="00:00:32.40" resultid="5239" heatid="5797" lane="6" />
+                <RESULT eventid="1162" points="143" swimtime="00:01:34.20" resultid="5240" heatid="5811" lane="2">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:40.78" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Bernardo Bauer" lastname="Piccinelli" birthdate="2014-07-05" gender="M" nation="BRA" athleteid="5145">
+              <RESULTS>
+                <RESULT eventid="1086" status="DNS" swimtime="00:00:00.00" resultid="5146" heatid="5725" lane="2" entrytime="00:00:29.79" />
+                <RESULT eventid="1094" status="DNS" swimtime="00:00:00.00" resultid="5147" heatid="5735" lane="4" entrytime="00:00:28.51" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sabrina Turek" lastname="Kvas" birthdate="2011-12-27" gender="F" nation="BRA" athleteid="5226">
+              <RESULTS>
+                <RESULT eventid="1104" points="73" swimtime="00:00:54.86" resultid="5227" heatid="5745" lane="4" />
+                <RESULT eventid="1112" points="98" swimtime="00:00:54.65" resultid="5228" heatid="5763" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Cristopher Gabriel Bail" lastname="da Silva" birthdate="2010-07-11" gender="M" nation="BRA" athleteid="5103">
+              <RESULTS>
+                <RESULT eventid="1142" status="DNS" swimtime="00:00:00.00" resultid="5104" heatid="5792" lane="1" entrytime="00:00:57.65" />
+                <RESULT eventid="1150" status="DNS" swimtime="00:00:00.00" resultid="5105" heatid="5803" lane="5" entrytime="00:01:03.04" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Valentina Franco Almeida" lastname="da SIlva" birthdate="2014-03-15" gender="F" nation="BRA" athleteid="5193">
+              <RESULTS>
+                <RESULT eventid="1082" points="31" swimtime="00:00:32.96" resultid="5194" heatid="5719" lane="3" />
+                <RESULT eventid="1092" points="46" swimtime="00:00:33.00" resultid="5195" heatid="5731" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Eduarda Ferreira" lastname="Bertoldo" birthdate="2012-01-14" gender="F" nation="BRA" athleteid="5172">
+              <RESULTS>
+                <RESULT eventid="1104" status="DNS" swimtime="00:00:00.00" resultid="5173" heatid="5744" lane="6" />
+                <RESULT eventid="1112" status="DNS" swimtime="00:00:00.00" resultid="5174" heatid="5759" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Emilly karollyne Artuzo" lastname="Venturim" birthdate="2009-01-03" gender="F" nation="BRA" athleteid="5142">
+              <RESULTS>
+                <RESULT eventid="1140" points="178" swimtime="00:00:40.71" resultid="5143" heatid="5787" lane="1" entrytime="00:00:42.56" />
+                <RESULT eventid="1148" points="122" swimtime="00:00:50.85" resultid="5144" heatid="5801" lane="6" entrytime="00:00:54.07" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Enzo Augusto C." lastname="Silvestre" birthdate="2013-12-27" gender="M" nation="BRA" athleteid="5160">
+              <RESULTS>
+                <RESULT eventid="1086" points="26" swimtime="00:00:30.40" resultid="5161" heatid="5725" lane="5" entrytime="00:00:36.00" />
+                <RESULT eventid="1094" points="25" swimtime="00:00:35.14" resultid="5162" heatid="5735" lane="5" entrytime="00:00:39.00" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Arthur Mosko" lastname="de Oliveira" birthdate="2009-01-07" gender="M" nation="BRA" athleteid="5130">
+              <RESULTS>
+                <RESULT eventid="1126" status="DNS" swimtime="00:00:00.00" resultid="5131" heatid="5773" lane="3" entrytime="00:00:38.61" />
+                <RESULT eventid="1158" status="DNS" swimtime="00:00:00.00" resultid="5132" heatid="5809" lane="4" entrytime="00:01:24.04" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luis Felipe de Arimathea" lastname="Piekarski" birthdate="2009-06-27" gender="M" nation="BRA" athleteid="5088">
+              <RESULTS>
+                <RESULT eventid="1142" points="218" swimtime="00:00:33.45" resultid="5089" heatid="5792" lane="2" entrytime="00:00:34.49" />
+                <RESULT eventid="1150" points="149" swimtime="00:00:41.66" resultid="5090" heatid="5803" lane="4" entrytime="00:00:46.44" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Giovana Meireles" lastname="Moura" birthdate="2012-03-22" gender="F" nation="BRA" athleteid="5118">
+              <RESULTS>
+                <RESULT eventid="1096" points="51" swimtime="00:00:29.98" resultid="5119" heatid="5737" lane="3" entrytime="00:00:32.03" />
+                <RESULT eventid="1104" points="128" swimtime="00:00:45.45" resultid="5120" heatid="5747" lane="4" entrytime="00:00:48.94" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Otávio lozano da Silva" lastname="Becher" birthdate="2010-06-07" gender="M" nation="BRA" athleteid="5076">
+              <RESULTS>
+                <RESULT eventid="1134" points="105" swimtime="00:00:52.87" resultid="5077" heatid="5779" lane="2" />
+                <RESULT eventid="1142" points="117" swimtime="00:00:41.17" resultid="5078" heatid="5791" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Levi Alves Dobre" lastname="dos Santos" birthdate="2014-09-08" gender="M" nation="BRA" athleteid="5208">
+              <RESULTS>
+                <RESULT eventid="1086" status="DNS" swimtime="00:00:00.00" resultid="5209" heatid="5724" lane="4" />
+                <RESULT eventid="1102" status="DNS" swimtime="00:00:00.00" resultid="5210" heatid="5740" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia Eduarda Gomes" lastname="da Silva" birthdate="2012-11-10" gender="F" nation="BRA" athleteid="5211">
+              <RESULTS>
+                <RESULT eventid="1104" points="74" swimtime="00:00:54.40" resultid="5212" heatid="5745" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18636" nation="BRA" region="PR" clubid="1352" name="Academia Hidrofit" shortname="Hidrofit">
+          <ATHLETES>
+            <ATHLETE firstname="Amanda" lastname="Lopes da Silva" birthdate="2010-08-02" gender="F" nation="BRA" athleteid="4964">
+              <RESULTS>
+                <RESULT eventid="1140" points="185" swimtime="00:00:40.19" resultid="4965" heatid="5784" lane="4" />
+                <RESULT eventid="1148" points="80" swimtime="00:00:58.50" resultid="4966" heatid="5799" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Daniel" lastname="Mafra Peixoto" birthdate="2010-11-01" gender="M" nation="BRA" athleteid="4943">
+              <RESULTS>
+                <RESULT eventid="1126" points="69" swimtime="00:00:52.81" resultid="4944" heatid="5773" lane="2" />
+                <RESULT eventid="1142" points="108" swimtime="00:00:42.21" resultid="4945" heatid="5790" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Arthur" lastname="Peruso Bandeira" birthdate="2016-08-03" gender="M" nation="BRA" athleteid="4958">
+              <RESULTS>
+                <RESULT eventid="1072" status="DNS" swimtime="00:00:00.00" resultid="4959" heatid="5712" lane="3" />
+                <RESULT eventid="1076" status="DNS" swimtime="00:00:00.00" resultid="4960" heatid="5716" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia" lastname="Oliveira Pankrasts" birthdate="2015-09-23" gender="F" nation="BRA" athleteid="4961">
+              <RESULTS>
+                <RESULT eventid="1070" points="26" swimtime="00:00:34.88" resultid="4962" heatid="5711" lane="2" />
+                <RESULT eventid="1074" points="29" swimtime="00:00:38.57" resultid="4963" heatid="5714" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Geovanna" lastname="Luana Paitra" birthdate="2011-03-10" gender="F" nation="BRA" athleteid="4946">
+              <RESULTS>
+                <RESULT eventid="1104" points="44" swimtime="00:01:04.82" resultid="4947" heatid="5742" lane="1" />
+                <RESULT eventid="1112" points="60" swimtime="00:01:04.22" resultid="4948" heatid="5760" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Emanuel" lastname="Selenko Lugarini" birthdate="2016-01-10" gender="M" nation="BRA" athleteid="4952">
+              <RESULTS>
+                <RESULT eventid="1072" points="41" swimtime="00:00:26.20" resultid="4953" heatid="5713" lane="4" />
+                <RESULT eventid="1076" points="32" swimtime="00:00:32.31" resultid="4954" heatid="5715" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Heloisa" lastname="Nogas Dias" birthdate="2015-05-11" gender="F" nation="BRA" athleteid="4955">
+              <RESULTS>
+                <RESULT eventid="1070" points="31" swimtime="00:00:33.24" resultid="4956" heatid="5711" lane="3" />
+                <RESULT eventid="1074" points="47" swimtime="00:00:32.86" resultid="4957" heatid="5714" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Nicolas" lastname="Constantinov Nogueira" birthdate="2008-05-06" gender="M" nation="BRA" athleteid="4949">
+              <RESULTS>
+                <RESULT eventid="1146" points="200" swimtime="00:00:34.44" resultid="4950" heatid="5795" lane="2" />
+                <RESULT eventid="1130" points="79" swimtime="00:00:50.60" resultid="4951" heatid="5775" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Leticia" lastname="Cavalheiro Hortz" birthdate="2014-01-06" gender="F" nation="BRA" athleteid="4940">
+              <RESULTS>
+                <RESULT eventid="1108" points="83" swimtime="00:00:52.46" resultid="4941" heatid="5756" lane="5" />
+                <RESULT eventid="1116" points="54" swimtime="00:01:06.41" resultid="4942" heatid="5768" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="13516" nation="BRA" region="PR" clubid="1333" name="Escola de Natação Israel" shortname="Natação Israel">
+          <ATHLETES>
+            <ATHLETE firstname="Vinicius" lastname="Zarpellon Ferreira" birthdate="2012-12-04" gender="M" nation="BRA" athleteid="5503">
+              <RESULTS>
+                <RESULT eventid="1106" points="137" swimtime="00:00:39.09" resultid="5504" heatid="5753" lane="3" entrytime="00:01:00.03" />
+                <RESULT eventid="1114" points="68" swimtime="00:00:54.05" resultid="5505" heatid="5767" lane="2" entrytime="00:01:00.17" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18638" nation="BRA" region="PR" clubid="4967" name="Academia MC Sports" shortname="MC Sports">
+          <ATHLETES>
+            <ATHLETE firstname="Giuilio" lastname="Businelli" birthdate="2012-04-05" gender="M" nation="BRA" athleteid="4968">
+              <RESULTS>
+                <RESULT eventid="1090" points="78" swimtime="00:00:58.19" resultid="4969" heatid="5728" lane="2" />
+                <RESULT eventid="1106" points="74" swimtime="00:00:47.82" resultid="4970" heatid="5750" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Eduardo" lastname="Marchiori" birthdate="2012-04-28" gender="M" nation="BRA" athleteid="4971">
+              <RESULTS>
+                <RESULT eventid="1090" points="79" swimtime="00:00:58.12" resultid="4972" heatid="5728" lane="1" />
+                <RESULT eventid="1106" points="103" swimtime="00:00:42.88" resultid="4973" heatid="5753" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="8753" nation="BRA" region="PR" clubid="1969" name="Colégio da Policia Militar do Paraná" shortname="CPM Paraná">
+          <ATHLETES>
+            <ATHLETE firstname="Luiz Felipe" lastname="Kostiuk Vanini Leite" birthdate="2012-03-21" gender="M" nation="BRA" athleteid="5382">
+              <RESULTS>
+                <RESULT eventid="1106" points="98" swimtime="00:00:43.67" resultid="5383" heatid="5753" lane="5" />
+                <RESULT eventid="1114" points="58" swimtime="00:00:56.85" resultid="5384" heatid="5766" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Hannah" lastname="do Vale Heinrichs" birthdate="2007-09-13" gender="F" nation="BRA" athleteid="5367">
+              <RESULTS>
+                <RESULT eventid="1144" points="300" swimtime="00:00:34.23" resultid="5368" heatid="5793" lane="5" />
+                <RESULT eventid="1152" points="276" swimtime="00:00:38.78" resultid="5369" heatid="5804" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Elizabeth" lastname="Dal Magro Doerl" birthdate="2013-01-09" gender="F" nation="BRA" athleteid="5373">
+              <RESULTS>
+                <RESULT eventid="1082" points="96" swimtime="00:00:22.78" resultid="5374" heatid="5718" lane="2" />
+                <RESULT eventid="1100" points="59" swimtime="00:00:33.76" resultid="5375" heatid="5739" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Amanda" lastname="Sakura Tamashiro" birthdate="2013-05-23" gender="F" nation="BRA" athleteid="5397">
+              <RESULTS>
+                <RESULT eventid="1082" points="161" swimtime="00:00:19.21" resultid="5398" heatid="5720" lane="6" />
+                <RESULT eventid="1092" points="158" swimtime="00:00:21.95" resultid="5399" heatid="5729" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Mariane" lastname="Weigert Jordan" birthdate="2013-01-19" gender="F" nation="BRA" athleteid="5400">
+              <RESULTS>
+                <RESULT eventid="1082" points="90" swimtime="00:00:23.33" resultid="5401" heatid="5719" lane="1" />
+                <RESULT eventid="1100" points="65" swimtime="00:00:32.78" resultid="5402" heatid="5739" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Matheus" lastname="Costa Lopes" birthdate="2012-03-27" gender="M" nation="BRA" athleteid="5409">
+              <RESULTS>
+                <RESULT eventid="1090" points="88" swimtime="00:00:55.92" resultid="5410" heatid="5727" lane="2" />
+                <RESULT eventid="1106" points="102" swimtime="00:00:43.05" resultid="5411" heatid="5749" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Rafael" lastname="Yukio Kunimoto" birthdate="2010-08-27" gender="M" nation="BRA" athleteid="5406">
+              <RESULTS>
+                <RESULT eventid="1134" points="135" swimtime="00:00:48.61" resultid="5407" heatid="5778" lane="2" />
+                <RESULT eventid="1142" points="173" swimtime="00:00:36.17" resultid="5408" heatid="5791" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Manoel" lastname="Jair dos Santos da Silva" birthdate="2011-07-21" gender="M" nation="BRA" athleteid="5394">
+              <RESULTS>
+                <RESULT eventid="1106" points="117" swimtime="00:00:41.12" resultid="5395" heatid="5748" lane="4" />
+                <RESULT eventid="1114" points="89" swimtime="00:00:49.48" resultid="5396" heatid="5764" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriel" lastname="Akira Oshima" birthdate="2008-08-26" gender="M" nation="BRA" athleteid="5385">
+              <RESULTS>
+                <RESULT eventid="1146" points="275" swimtime="00:00:31.00" resultid="5386" heatid="5797" lane="1" />
+                <RESULT eventid="1154" points="207" swimtime="00:00:37.34" resultid="5387" heatid="5806" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Guilherme" lastname="Gonçalves Plocharski" birthdate="2011-08-01" gender="M" nation="BRA" athleteid="5403">
+              <RESULTS>
+                <RESULT eventid="1090" points="146" swimtime="00:00:47.28" resultid="5404" heatid="5727" lane="3" />
+                <RESULT eventid="1106" points="146" swimtime="00:00:38.24" resultid="5405" heatid="5748" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Angelo" lastname="Schmitz de França Ferreira" birthdate="2013-04-25" gender="M" nation="BRA" athleteid="5370">
+              <RESULTS>
+                <RESULT eventid="1086" points="92" swimtime="00:00:20.09" resultid="5371" heatid="5722" lane="5" />
+                <RESULT eventid="1094" points="76" swimtime="00:00:24.24" resultid="5372" heatid="5733" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Kaua" lastname="de Lima dos Santos Reis" birthdate="2010-04-18" gender="M" nation="BRA" athleteid="5391">
+              <RESULTS>
+                <RESULT eventid="1134" points="187" swimtime="00:00:43.61" resultid="5392" heatid="5778" lane="3" />
+                <RESULT eventid="1142" points="233" swimtime="00:00:32.72" resultid="5393" heatid="5790" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Bernardo" lastname="Casiano Andrade" birthdate="2008-09-22" gender="M" nation="BRA" athleteid="5388">
+              <RESULTS>
+                <RESULT eventid="1138" points="236" swimtime="00:00:40.37" resultid="5389" heatid="5781" lane="2" />
+                <RESULT eventid="1146" points="293" swimtime="00:00:30.33" resultid="5390" heatid="5797" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Mateus" lastname="Albretch Mittmann" birthdate="2012-03-08" gender="M" nation="BRA" athleteid="5379">
+              <RESULTS>
+                <RESULT eventid="1106" points="146" swimtime="00:00:38.26" resultid="5380" heatid="5751" lane="1" />
+                <RESULT eventid="1114" points="82" swimtime="00:00:50.80" resultid="5381" heatid="5765" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Kadu" lastname="Stremel Nossabin Pedroso" birthdate="2013-08-28" gender="M" nation="BRA" athleteid="5376">
+              <RESULTS>
+                <RESULT eventid="1086" points="113" swimtime="00:00:18.74" resultid="5377" heatid="5723" lane="3" />
+                <RESULT eventid="1102" points="91" swimtime="00:00:25.48" resultid="5378" heatid="5740" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="15570" nation="BRA" region="PR" clubid="1179" name="Colégio Bom Jesus" shortname="Bom Jesus">
+          <ATHLETES>
+            <ATHLETE firstname="Henrique" lastname="Pacheco e Silva" birthdate="2008-04-28" gender="M" nation="BRA" athleteid="5325">
+              <RESULTS>
+                <RESULT eventid="1138" points="200" swimtime="00:00:42.63" resultid="5326" heatid="5781" lane="1" />
+                <RESULT eventid="1146" points="236" swimtime="00:00:32.60" resultid="5327" heatid="5796" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria" lastname="Biella Misocami" birthdate="2009-02-19" gender="F" nation="BRA" athleteid="5310">
+              <RESULTS>
+                <RESULT eventid="1132" points="169" swimtime="00:00:51.22" resultid="5311" heatid="5776" lane="3" />
+                <RESULT eventid="1140" points="174" swimtime="00:00:41.07" resultid="5312" heatid="5782" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Anita" lastname="Gomes Saldanha" birthdate="2009-02-26" gender="F" nation="BRA" athleteid="5346">
+              <RESULTS>
+                <RESULT eventid="1124" points="235" swimtime="00:00:39.50" resultid="5347" heatid="5772" lane="2" />
+                <RESULT eventid="1140" points="241" swimtime="00:00:36.82" resultid="5348" heatid="5783" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Cristopher" lastname="Ribas Pinto" birthdate="2011-01-27" gender="M" nation="BRA" athleteid="5340">
+              <RESULTS>
+                <RESULT eventid="1090" points="150" swimtime="00:00:46.95" resultid="5341" heatid="5727" lane="4" />
+                <RESULT eventid="1106" points="144" swimtime="00:00:38.39" resultid="5342" heatid="5749" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Carolina" lastname="Dutra Vilela" birthdate="2010-03-17" gender="F" nation="BRA" athleteid="5343">
+              <RESULTS>
+                <RESULT eventid="1132" points="111" swimtime="00:00:58.88" resultid="5344" heatid="5777" lane="2" />
+                <RESULT eventid="1148" points="111" swimtime="00:00:52.49" resultid="5345" heatid="5798" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Giuseppe" lastname="Marquardt Ditterich" birthdate="2012-09-27" gender="M" nation="BRA" athleteid="5331">
+              <RESULTS>
+                <RESULT eventid="1106" points="83" swimtime="00:00:46.19" resultid="5332" heatid="5752" lane="6" />
+                <RESULT eventid="1114" points="75" swimtime="00:00:52.31" resultid="5333" heatid="5766" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Leticia" lastname="Bastos Costa" birthdate="2009-09-26" gender="F" nation="BRA" athleteid="5316">
+              <RESULTS>
+                <RESULT eventid="1140" status="DNS" swimtime="00:00:00.00" resultid="5317" heatid="5784" lane="3" />
+                <RESULT eventid="1148" status="DNS" swimtime="00:00:00.00" resultid="5318" heatid="5800" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Rafaelle" lastname="Matos de Souza" birthdate="2011-04-24" gender="F" nation="BRA" athleteid="5361">
+              <RESULTS>
+                <RESULT eventid="1104" points="294" swimtime="00:00:34.45" resultid="5362" heatid="5744" lane="3" />
+                <RESULT eventid="1112" points="217" swimtime="00:00:42.00" resultid="5363" heatid="5762" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isabelle" lastname="Veiga Reis" birthdate="2010-04-22" gender="F" nation="BRA" athleteid="5319">
+              <RESULTS>
+                <RESULT eventid="1124" points="150" swimtime="00:00:45.87" resultid="5320" heatid="5771" lane="4" />
+                <RESULT eventid="1140" points="193" swimtime="00:00:39.61" resultid="5321" heatid="5783" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luiza" lastname="Oenning Ihlenffeldt" birthdate="2009-05-29" gender="F" nation="BRA" athleteid="5313">
+              <RESULTS>
+                <RESULT eventid="1132" points="184" swimtime="00:00:49.79" resultid="5314" heatid="5777" lane="5" />
+                <RESULT eventid="1140" points="235" swimtime="00:00:37.14" resultid="5315" heatid="5785" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gustavo" lastname="Braga Ercoli" birthdate="2009-02-12" gender="M" nation="BRA" athleteid="5328">
+              <RESULTS>
+                <RESULT eventid="1134" points="188" swimtime="00:00:43.50" resultid="5329" heatid="5778" lane="5" />
+                <RESULT eventid="1142" points="236" swimtime="00:00:32.62" resultid="5330" heatid="5788" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana" lastname="Formagini da Silva" birthdate="2011-04-20" gender="F" nation="BRA" athleteid="5349">
+              <RESULTS>
+                <RESULT eventid="1088" points="145" swimtime="00:00:53.94" resultid="5350" heatid="5726" lane="1" />
+                <RESULT eventid="1112" points="133" swimtime="00:00:49.37" resultid="5351" heatid="5761" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Daniela" lastname="De Souza Curcio" birthdate="2009-07-24" gender="F" nation="BRA" athleteid="5337">
+              <RESULTS>
+                <RESULT eventid="1132" points="198" swimtime="00:00:48.60" resultid="5338" heatid="5776" lane="4" />
+                <RESULT eventid="1140" points="161" swimtime="00:00:42.11" resultid="5339" heatid="5783" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Nicolas" lastname="Mello Araujo" birthdate="2012-08-14" gender="M" nation="BRA" athleteid="5364">
+              <RESULTS>
+                <RESULT eventid="1090" status="DNS" swimtime="00:00:00.00" resultid="5365" heatid="5728" lane="6" />
+                <RESULT eventid="1106" status="DNS" swimtime="00:00:00.00" resultid="5366" heatid="5749" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Edward" lastname="Luiz Santiago" birthdate="2012-02-02" gender="M" nation="BRA" athleteid="5334">
+              <RESULTS>
+                <RESULT eventid="1106" points="217" swimtime="00:00:33.50" resultid="5335" heatid="5750" lane="2" />
+                <RESULT eventid="1114" points="148" swimtime="00:00:41.73" resultid="5336" heatid="5767" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana" lastname="Martins Durante" birthdate="2012-12-03" gender="F" nation="BRA" athleteid="5352">
+              <RESULTS>
+                <RESULT eventid="1104" points="231" swimtime="00:00:37.33" resultid="5353" heatid="5746" lane="4" />
+                <RESULT eventid="1112" points="170" swimtime="00:00:45.50" resultid="5354" heatid="5760" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isaac" lastname="Cury de Deus" birthdate="2012-06-19" gender="M" nation="BRA" athleteid="5322">
+              <RESULTS>
+                <RESULT eventid="1106" status="DNS" swimtime="00:00:00.00" resultid="5323" heatid="5753" lane="2" />
+                <RESULT eventid="1122" status="DNS" swimtime="00:00:00.00" resultid="5324" heatid="5770" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Pedro" lastname="Servienski da Silva" birthdate="2009-09-10" gender="M" nation="BRA" athleteid="5358">
+              <RESULTS>
+                <RESULT eventid="1134" points="237" swimtime="00:00:40.31" resultid="5359" heatid="5778" lane="4" />
+                <RESULT eventid="1142" points="271" swimtime="00:00:31.15" resultid="5360" heatid="5791" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Matheus" lastname="Zanini Duarte" birthdate="2009-03-27" gender="M" nation="BRA" athleteid="5307">
+              <RESULTS>
+                <RESULT eventid="1134" points="208" swimtime="00:00:42.10" resultid="5308" heatid="5779" lane="6" />
+                <RESULT eventid="1142" points="245" swimtime="00:00:32.19" resultid="5309" heatid="5788" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isabel" lastname="Martinez Tarnowski" birthdate="2010-09-20" gender="F" nation="BRA" athleteid="5355">
+              <RESULTS>
+                <RESULT eventid="1132" points="174" swimtime="00:00:50.76" resultid="5356" heatid="5777" lane="1" />
+                <RESULT eventid="1140" points="224" swimtime="00:00:37.75" resultid="5357" heatid="5785" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18650" nation="BRA" region="PR" clubid="3112" name="Clube da Gente, CIC" shortname="Clube da Gente CIC">
+          <ATHLETES>
+            <ATHLETE firstname="Julia" lastname="de Oliveira Gonçalves dos Santos" birthdate="2012-04-25" gender="F" nation="BRA" athleteid="5259">
+              <RESULTS>
+                <RESULT eventid="1104" points="68" swimtime="00:00:56.01" resultid="5260" heatid="5742" lane="2" />
+                <RESULT eventid="1112" points="32" swimtime="00:01:19.04" resultid="5261" heatid="5760" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Antonio Fernando" lastname="de Moraes" birthdate="2010-05-27" gender="M" nation="BRA" athleteid="5298">
+              <RESULTS>
+                <RESULT eventid="1134" points="188" swimtime="00:00:43.51" resultid="5299" heatid="5779" lane="5" />
+                <RESULT eventid="1142" points="279" swimtime="00:00:30.83" resultid="5300" heatid="5791" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gustavo" lastname="de Carvalho carneiro" birthdate="2009-07-17" gender="M" nation="BRA" athleteid="5295">
+              <RESULTS>
+                <RESULT eventid="1142" points="291" swimtime="00:00:30.41" resultid="5296" heatid="5789" lane="3" />
+                <RESULT eventid="1158" points="201" swimtime="00:01:24.00" resultid="5297" heatid="5809" lane="5">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:37.39" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Emanuelly" lastname="Wacholski Rodrigues" birthdate="2014-07-09" gender="F" nation="BRA" athleteid="5250">
+              <RESULTS>
+                <RESULT eventid="1082" points="66" swimtime="00:00:25.87" resultid="5251" heatid="5720" lane="2" />
+                <RESULT eventid="1092" points="68" swimtime="00:00:29.02" resultid="5252" heatid="5730" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Bianca" lastname="da Silva Mosca" birthdate="2011-03-03" gender="F" nation="BRA" athleteid="5283">
+              <RESULTS>
+                <RESULT eventid="1088" points="118" swimtime="00:00:57.68" resultid="5284" heatid="5726" lane="5" />
+                <RESULT eventid="1112" points="117" swimtime="00:00:51.58" resultid="5285" heatid="5762" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Leticia" lastname="de Oliveira Martinhaki" birthdate="2012-05-24" gender="F" nation="BRA" athleteid="5271">
+              <RESULTS>
+                <RESULT eventid="1096" points="154" swimtime="00:00:20.86" resultid="5272" heatid="5736" lane="4" />
+                <RESULT eventid="1104" points="205" swimtime="00:00:38.87" resultid="5273" heatid="5745" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Vicente" lastname="Barbosa de Mattos" birthdate="2012-11-05" gender="M" nation="BRA" athleteid="5277">
+              <RESULTS>
+                <RESULT eventid="1106" points="110" swimtime="00:00:41.95" resultid="5278" heatid="5750" lane="4" />
+                <RESULT eventid="1114" status="DNS" swimtime="00:00:00.00" resultid="5279" heatid="5765" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Natália" lastname="Buch Baumann Lima" birthdate="2011-06-08" gender="F" nation="BRA" athleteid="5265">
+              <RESULTS>
+                <RESULT eventid="1088" points="171" swimtime="00:00:51.09" resultid="5266" heatid="5726" lane="6" />
+                <RESULT eventid="1104" points="225" swimtime="00:00:37.67" resultid="5267" heatid="5744" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Enzo" lastname="de Oliveira Cogeraski" birthdate="2010-06-10" gender="M" nation="BRA" athleteid="5292">
+              <RESULTS>
+                <RESULT eventid="1142" points="105" swimtime="00:00:42.63" resultid="5293" heatid="5789" lane="4" />
+                <RESULT eventid="1150" points="85" swimtime="00:00:50.19" resultid="5294" heatid="5802" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Kauã" lastname="de Souza" birthdate="2011-02-24" gender="M" nation="BRA" athleteid="5280">
+              <RESULTS>
+                <RESULT eventid="1098" points="126" swimtime="00:00:19.67" resultid="5281" heatid="5738" lane="2" />
+                <RESULT eventid="1106" points="165" swimtime="00:00:36.70" resultid="5282" heatid="5751" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Guilherme" lastname="Monteiro Sotero" birthdate="2014-04-23" gender="M" nation="BRA" athleteid="5247">
+              <RESULTS>
+                <RESULT eventid="1086" points="43" swimtime="00:00:25.79" resultid="5248" heatid="5723" lane="5" />
+                <RESULT eventid="1094" points="17" swimtime="00:00:39.80" resultid="5249" heatid="5735" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Clara" lastname="Pedroso Pinto" birthdate="2010-03-02" gender="F" nation="BRA" athleteid="5301">
+              <RESULTS>
+                <RESULT eventid="1124" points="90" swimtime="00:00:54.31" resultid="5302" heatid="5771" lane="2" />
+                <RESULT eventid="1140" points="158" swimtime="00:00:42.33" resultid="5303" heatid="5786" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Giovana Gabrielli" lastname="Wescalowski" birthdate="2012-01-28" gender="F" nation="BRA" athleteid="5286">
+              <RESULTS>
+                <RESULT eventid="1096" points="219" swimtime="00:00:18.55" resultid="5287" heatid="5736" lane="3" />
+                <RESULT eventid="1104" points="257" swimtime="00:00:36.03" resultid="5288" heatid="5743" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ana Victoria" lastname="Tora de Oliveira" birthdate="2013-08-17" gender="F" nation="BRA" athleteid="5253">
+              <RESULTS>
+                <RESULT eventid="1082" points="98" swimtime="00:00:22.62" resultid="5254" heatid="5718" lane="5" />
+                <RESULT eventid="1092" points="100" swimtime="00:00:25.55" resultid="5255" heatid="5731" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Clara" lastname="Ramos e Silva Amaral" birthdate="2011-01-05" gender="F" nation="BRA" athleteid="5268">
+              <RESULTS>
+                <RESULT eventid="1104" points="142" swimtime="00:00:43.87" resultid="5269" heatid="5746" lane="3" />
+                <RESULT eventid="1112" points="106" swimtime="00:00:53.34" resultid="5270" heatid="5762" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Maria Eduarda" lastname="Dias Martins" birthdate="2012-06-16" gender="F" nation="BRA" athleteid="5256">
+              <RESULTS>
+                <RESULT eventid="1104" points="72" swimtime="00:00:54.98" resultid="5257" heatid="5742" lane="4" />
+                <RESULT eventid="1112" points="39" swimtime="00:01:14.32" resultid="5258" heatid="5763" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Leticia" lastname="Figura Fagundes" birthdate="2011-07-13" gender="F" nation="BRA" athleteid="5262">
+              <RESULTS>
+                <RESULT eventid="1104" points="198" swimtime="00:00:39.31" resultid="5263" heatid="5742" lane="3" />
+                <RESULT eventid="1112" points="106" swimtime="00:00:53.19" resultid="5264" heatid="5760" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Giulia" lastname="Quignalia Gonçalves" birthdate="2008-04-15" gender="F" nation="BRA" athleteid="5289">
+              <RESULTS>
+                <RESULT eventid="1144" points="277" swimtime="00:00:35.17" resultid="5290" heatid="5794" lane="6" />
+                <RESULT eventid="1160" points="165" swimtime="00:01:43.03" resultid="5291" heatid="5810" lane="2">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:46.91" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Jonas Augusto" lastname="Viana de Souza" birthdate="2012-01-09" gender="M" nation="BRA" athleteid="5274">
+              <RESULTS>
+                <RESULT eventid="1106" points="135" swimtime="00:00:39.26" resultid="5275" heatid="5751" lane="5" />
+                <RESULT eventid="1114" points="91" swimtime="00:00:49.15" resultid="5276" heatid="5765" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18640" nation="BRA" region="PR" clubid="2849" name="Academia Olímpica" shortname="Olímpica">
+          <ATHLETES>
+            <ATHLETE firstname="Gabriela" lastname="Fuchs" birthdate="2014-02-27" gender="F" nation="BRA" athleteid="4992">
+              <RESULTS>
+                <RESULT eventid="1082" status="DNS" swimtime="00:00:00.00" resultid="4993" heatid="5721" lane="4" entrytime="00:00:22.00" />
+                <RESULT eventid="1100" status="DNS" swimtime="00:00:00.00" resultid="4994" heatid="5739" lane="3" entrytime="00:00:28.00" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Eduardo" lastname="Leite Fachin" birthdate="2010-11-22" gender="M" nation="BRA" athleteid="4977">
+              <RESULTS>
+                <RESULT eventid="1142" points="292" swimtime="00:00:30.36" resultid="4978" heatid="5792" lane="3" entrytime="00:00:30.00" />
+                <RESULT eventid="1150" points="232" swimtime="00:00:35.98" resultid="4979" heatid="5803" lane="3" entrytime="00:00:35.00" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Felipe" lastname="Rumiato Aguiar" birthdate="2011-11-23" gender="M" nation="BRA" athleteid="4980">
+              <RESULTS>
+                <RESULT eventid="1106" points="232" swimtime="00:00:32.80" resultid="4981" heatid="5754" lane="4" entrytime="00:00:31.00" />
+                <RESULT eventid="1114" points="204" swimtime="00:00:37.50" resultid="4982" heatid="5767" lane="3" entrytime="00:00:35.00" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Arthur" lastname="Iank de Lima" birthdate="2013-05-30" gender="M" nation="BRA" athleteid="4986">
+              <RESULTS>
+                <RESULT eventid="1110" points="122" swimtime="00:00:40.55" resultid="4987" heatid="5758" lane="4" entrytime="00:00:38.40" />
+                <RESULT eventid="1118" points="77" swimtime="00:00:51.97" resultid="4988" heatid="5769" lane="4" entrytime="00:00:50.22" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Enzo" lastname="Fossati" birthdate="2013-09-02" gender="M" nation="BRA" athleteid="4983">
+              <RESULTS>
+                <RESULT eventid="1086" points="104" swimtime="00:00:19.29" resultid="4984" heatid="5725" lane="4" entrytime="00:00:20.00" />
+                <RESULT eventid="1094" points="77" swimtime="00:00:24.11" resultid="4985" heatid="5735" lane="3" entrytime="00:00:27.00" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Leonardo" lastname="Pizaia Ise" birthdate="2013-03-01" gender="M" nation="BRA" athleteid="4989">
+              <RESULTS>
+                <RESULT eventid="1110" points="192" swimtime="00:00:34.92" resultid="4990" heatid="5758" lane="3" entrytime="00:00:37.00" />
+                <RESULT eventid="1118" points="131" swimtime="00:00:43.49" resultid="4991" heatid="5769" lane="3" entrytime="00:00:37.00" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriela" lastname="Schartner de Oliveira" birthdate="2010-08-02" gender="F" nation="BRA" athleteid="4974">
+              <RESULTS>
+                <RESULT eventid="1132" points="188" swimtime="00:00:49.44" resultid="4975" heatid="5777" lane="3" entrytime="00:00:41.00" />
+                <RESULT eventid="1140" points="227" swimtime="00:00:37.56" resultid="4976" heatid="5787" lane="3" entrytime="00:00:36.00" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18642" nation="BRA" region="PR" clubid="1348" name="Acqua Fitness Escola de Natação e Academia" shortname="Acqua Fitness">
+          <ATHLETES>
+            <ATHLETE firstname="Izabelle" lastname="Maestrelli daSilva Souza" birthdate="2008-02-15" gender="F" nation="BRA" athleteid="4931">
+              <RESULTS>
+                <RESULT eventid="1144" points="127" swimtime="00:00:45.54" resultid="4932" heatid="5794" lane="2" />
+                <RESULT eventid="1152" points="72" swimtime="00:01:00.59" resultid="4933" heatid="5805" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18633" nation="BRA" region="PR" clubid="1670" name="Academia H2O" shortname="H2O">
+          <ATHLETES>
+            <ATHLETE firstname="Vinicius Edson" lastname="Do Prado Barreto De Souza" birthdate="2009-06-18" gender="M" nation="BRA" athleteid="4937">
+              <RESULTS>
+                <RESULT eventid="1142" points="267" swimtime="00:00:31.30" resultid="4938" heatid="5790" lane="5" />
+                <RESULT eventid="1150" points="171" swimtime="00:00:39.82" resultid="4939" heatid="5803" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="2644" nation="BRA" region="PR" clubid="1695" name="Academia Sion" shortname="Sion">
+          <ATHLETES>
+            <ATHLETE firstname="Ariane" lastname="Minetto Araújo" birthdate="2007-09-29" gender="F" nation="BRA" athleteid="4995">
+              <RESULTS>
+                <RESULT eventid="1144" points="224" swimtime="00:00:37.75" resultid="4996" heatid="5793" lane="3" />
+                <RESULT eventid="1160" points="188" swimtime="00:01:38.59" resultid="4997" heatid="5810" lane="4">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:44.75" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="889" nation="BRA" region="PR" clubid="1985" swrid="93775" name="Colégio Estadual do Paraná" shortname="Estadual do Paraná">
+          <ATHLETES>
+            <ATHLETE firstname="Natália" lastname="Oliveira D&apos;Prospero" birthdate="2012-12-06" gender="F" nation="BRA" athleteid="5463">
+              <RESULTS>
+                <RESULT eventid="1096" points="131" swimtime="00:00:21.99" resultid="5464" heatid="5736" lane="2" />
+                <RESULT eventid="1104" points="145" swimtime="00:00:43.60" resultid="5465" heatid="5745" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Raul" lastname="Molitor Martins de JESUS" birthdate="2013-08-12" gender="M" nation="BRA" athleteid="5412">
+              <RESULTS>
+                <RESULT eventid="1086" status="DNS" swimtime="00:00:00.00" resultid="5413" heatid="5722" lane="3" />
+                <RESULT eventid="1094" status="DNS" swimtime="00:00:00.00" resultid="5414" heatid="5733" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Angeli Gabriel" lastname="Fiorese Cararo" birthdate="2007-03-31" gender="M" nation="BRA" athleteid="5421">
+              <RESULTS>
+                <RESULT eventid="1146" points="150" swimtime="00:00:37.94" resultid="5422" heatid="5797" lane="2" />
+                <RESULT eventid="1154" points="83" swimtime="00:00:50.52" resultid="5423" heatid="5806" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="João Gabriel" lastname="Schloegel Zacarias" birthdate="2012-09-05" gender="M" nation="BRA" athleteid="5460">
+              <RESULTS>
+                <RESULT eventid="1098" points="111" swimtime="00:00:20.51" resultid="5461" heatid="5738" lane="3" />
+                <RESULT eventid="1106" points="190" swimtime="00:00:35.03" resultid="5462" heatid="5753" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia" lastname="Bianchini de Quadros" birthdate="2009-09-04" gender="F" nation="BRA" athleteid="5448">
+              <RESULTS>
+                <RESULT eventid="1132" points="96" swimtime="00:01:01.83" resultid="5449" heatid="5776" lane="2" />
+                <RESULT eventid="1140" points="188" swimtime="00:00:39.98" resultid="5450" heatid="5785" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Ehab Moyad Ahmad" lastname="Abdallah" birthdate="2012-04-23" gender="M" nation="BRA" athleteid="5457">
+              <RESULTS>
+                <RESULT eventid="1098" points="102" swimtime="00:00:21.06" resultid="5458" heatid="5738" lane="4" />
+                <RESULT eventid="1106" points="143" swimtime="00:00:38.50" resultid="5459" heatid="5752" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriela" lastname="Machado Lobo" birthdate="2009-08-24" gender="F" nation="BRA" athleteid="5439">
+              <RESULTS>
+                <RESULT eventid="1140" points="162" swimtime="00:00:42.00" resultid="5440" heatid="5784" lane="6" />
+                <RESULT eventid="1148" points="84" swimtime="00:00:57.55" resultid="5441" heatid="5798" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="João Octavio" lastname="Ferreira de Lira" birthdate="2011-09-03" gender="M" nation="BRA" athleteid="5454">
+              <RESULTS>
+                <RESULT eventid="1106" points="144" swimtime="00:00:38.42" resultid="5455" heatid="5751" lane="6" />
+                <RESULT eventid="1114" points="69" swimtime="00:00:53.84" resultid="5456" heatid="5764" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Guilherme Vitor" lastname="da Silva" birthdate="2008-10-23" gender="M" nation="BRA" athleteid="5424">
+              <RESULTS>
+                <RESULT eventid="1146" points="211" swimtime="00:00:33.82" resultid="5425" heatid="5796" lane="1" />
+                <RESULT eventid="1162" points="150" swimtime="00:01:32.63" resultid="5426" heatid="5811" lane="5">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:39.87" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriel" lastname="da Silveira Vieira" birthdate="2009-09-01" gender="M" nation="BRA" athleteid="5427">
+              <RESULTS>
+                <RESULT eventid="1142" points="126" swimtime="00:00:40.12" resultid="5428" heatid="5790" lane="4" />
+                <RESULT eventid="1150" points="86" swimtime="00:00:50.03" resultid="5429" heatid="5802" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Felipe" lastname="Tozzini Teixeira" birthdate="2009-02-15" gender="M" nation="BRA" athleteid="5445">
+              <RESULTS>
+                <RESULT eventid="1134" points="152" swimtime="00:00:46.70" resultid="5446" heatid="5779" lane="1" />
+                <RESULT eventid="1142" points="116" swimtime="00:00:41.28" resultid="5447" heatid="5790" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isadora" lastname="Mucke Buchmann" birthdate="2009-02-25" gender="F" nation="BRA" athleteid="5430">
+              <RESULTS>
+                <RESULT eventid="1140" points="147" swimtime="00:00:43.37" resultid="5431" heatid="5784" lane="1" />
+                <RESULT eventid="1148" points="116" swimtime="00:00:51.69" resultid="5432" heatid="5799" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Pedro" lastname="Alface Cervelin" birthdate="2008-02-09" gender="M" nation="BRA" athleteid="5418">
+              <RESULTS>
+                <RESULT eventid="1146" points="182" swimtime="00:00:35.57" resultid="5419" heatid="5795" lane="6" />
+                <RESULT eventid="1154" points="155" swimtime="00:00:41.08" resultid="5420" heatid="5807" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Eduardo" lastname="Garcia Valentim do Rosário" birthdate="2010-07-31" gender="M" nation="AFG" athleteid="5415">
+              <RESULTS>
+                <RESULT eventid="1142" points="148" swimtime="00:00:38.03" resultid="5416" heatid="5789" lane="2" />
+                <RESULT eventid="1150" points="76" swimtime="00:00:51.99" resultid="5417" heatid="5803" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Juliana" lastname="Rosa Rodrigues da  Silva" birthdate="2009-03-03" gender="F" nation="BRA" athleteid="5433">
+              <RESULTS>
+                <RESULT eventid="1140" points="218" swimtime="00:00:38.07" resultid="5434" heatid="5785" lane="1" />
+                <RESULT eventid="1156" points="130" swimtime="00:01:51.35" resultid="5435" heatid="5808" lane="1">
+                  <SPLITS>
+                    <SPLIT distance="50" swimtime="00:00:51.55" />
+                  </SPLITS>
+                </RESULT>
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Luis Gustavo" lastname="Padilha Macagnam" birthdate="2008-07-28" gender="M" nation="BRA" athleteid="5442">
+              <RESULTS>
+                <RESULT eventid="1138" points="128" swimtime="00:00:49.42" resultid="5443" heatid="5781" lane="4" />
+                <RESULT eventid="1146" points="193" swimtime="00:00:34.88" resultid="5444" heatid="5796" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Beatriz" lastname="Galdino da Silva" birthdate="2012-06-08" gender="F" nation="BRA" athleteid="5451">
+              <RESULTS>
+                <RESULT eventid="1104" points="133" swimtime="00:00:44.91" resultid="5452" heatid="5746" lane="5" />
+                <RESULT eventid="1112" points="74" swimtime="00:00:59.91" resultid="5453" heatid="5761" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sofia" lastname="Alixandrini" birthdate="2009-02-20" gender="F" nation="BRA" athleteid="5436">
+              <RESULTS>
+                <RESULT eventid="1140" points="112" swimtime="00:00:47.52" resultid="5437" heatid="5785" lane="5" />
+                <RESULT eventid="1148" points="68" swimtime="00:01:01.86" resultid="5438" heatid="5799" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="10919" nation="BRA" region="PR" clubid="3431" name="Plena Academia" shortname="Plena ">
+          <ATHLETES>
+            <ATHLETE firstname="Gabriel" lastname="Dombrowski Gutmann" birthdate="2011-02-20" gender="M" nation="BRA" athleteid="5642">
+              <RESULTS>
+                <RESULT eventid="1106" points="99" swimtime="00:00:43.51" resultid="5643" heatid="5750" lane="3" />
+                <RESULT eventid="1114" points="76" swimtime="00:00:51.99" resultid="5644" heatid="5766" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia" lastname="Leber" birthdate="2014-03-28" gender="F" nation="BRA" athleteid="5651">
+              <RESULTS>
+                <RESULT eventid="1082" points="80" swimtime="00:00:24.18" resultid="5652" heatid="5719" lane="4" />
+                <RESULT eventid="1092" points="51" swimtime="00:00:31.91" resultid="5653" heatid="5729" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sergio" lastname="Schmidt Taira" birthdate="2016-06-20" gender="M" nation="BRA" athleteid="5648">
+              <RESULTS>
+                <RESULT eventid="1062" points="41" swimtime="00:00:26.30" resultid="5649" heatid="5708" lane="2" />
+                <RESULT eventid="1068" points="23" swimtime="00:00:36.17" resultid="5650" heatid="5710" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="João" lastname="Moletta Chambó" birthdate="2010-05-13" gender="M" nation="BRA" athleteid="5645">
+              <RESULTS>
+                <RESULT eventid="1142" points="173" swimtime="00:00:36.15" resultid="5646" heatid="5791" lane="5" />
+                <RESULT eventid="1150" points="117" swimtime="00:00:45.15" resultid="5647" heatid="5802" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="17828" nation="BRA" region="PR" clubid="4924" name="Academia Fênix" shortname="Fênix">
+          <ATHLETES>
+            <ATHLETE firstname="John" lastname="Malcolm Chotte" birthdate="2015-08-11" gender="M" nation="BRA" athleteid="4925">
+              <RESULTS>
+                <RESULT eventid="1072" points="46" swimtime="00:00:25.26" resultid="4926" heatid="5713" lane="3" entrytime="00:00:30.31" />
+                <RESULT eventid="1080" points="14" swimtime="00:00:46.82" resultid="4927" heatid="5717" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Brandon" lastname="Sean Alonso Gomez" birthdate="2012-05-29" gender="M" nation="BRA" athleteid="4928">
+              <RESULTS>
+                <RESULT eventid="1106" points="190" swimtime="00:00:35.04" resultid="4929" heatid="5753" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB type="CLUB" code="18644" nation="BRA" region="PR" clubid="1173" name="Acquafit Concept" shortname="Acquafit">
+          <ATHLETES>
+            <ATHLETE firstname="Henrique" lastname="Paes Weber" birthdate="2010-11-23" gender="M" nation="BRA" athleteid="5011">
+              <RESULTS>
+                <RESULT eventid="1126" points="197" swimtime="00:00:37.35" resultid="5012" heatid="5773" lane="5" />
+                <RESULT eventid="1142" points="242" swimtime="00:00:32.32" resultid="5013" heatid="5789" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Mariana" lastname="Sorbello Nobrega" birthdate="2010-12-01" gender="F" nation="BRA" athleteid="5017">
+              <RESULTS>
+                <RESULT eventid="1124" points="130" swimtime="00:00:48.10" resultid="5018" heatid="5771" lane="3" />
+                <RESULT eventid="1140" points="213" swimtime="00:00:38.35" resultid="5019" heatid="5785" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Arthur" lastname="Gumiero" birthdate="2015-03-10" gender="M" nation="BRA" athleteid="5023">
+              <RESULTS>
+                <RESULT eventid="1072" points="82" swimtime="00:00:20.86" resultid="5024" heatid="5712" lane="2" />
+                <RESULT eventid="1076" points="51" swimtime="00:00:27.64" resultid="5025" heatid="5716" lane="3" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Enzo Gabriel" lastname="de Aguiar" birthdate="2012-05-18" gender="M" nation="BRA" athleteid="5008">
+              <RESULTS>
+                <RESULT eventid="1106" points="139" swimtime="00:00:38.85" resultid="5009" heatid="5749" lane="3" />
+                <RESULT eventid="1114" points="113" swimtime="00:00:45.60" resultid="5010" heatid="5765" lane="1" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Leonardo" lastname="Nicola dos Santos" birthdate="2012-05-26" gender="M" nation="BRA" athleteid="5032">
+              <RESULTS>
+                <RESULT eventid="1098" points="118" swimtime="00:00:20.10" resultid="5033" heatid="5738" lane="5" />
+                <RESULT eventid="1106" points="145" swimtime="00:00:38.29" resultid="5034" heatid="5752" lane="2" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Sophia" lastname="Alexandrino Fernandes" birthdate="2012-10-17" gender="F" nation="BRA" athleteid="5026">
+              <RESULTS>
+                <RESULT eventid="1104" points="90" swimtime="00:00:51.03" resultid="5027" heatid="5746" lane="2" />
+                <RESULT eventid="1112" points="54" swimtime="00:01:06.59" resultid="5028" heatid="5762" lane="6" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lara" lastname="Queiroz Pudelko" birthdate="2014-02-07" gender="F" nation="BRA" athleteid="5005">
+              <RESULTS>
+                <RESULT eventid="1082" status="DNS" swimtime="00:00:00.00" resultid="5006" heatid="5719" lane="6" />
+                <RESULT eventid="1092" status="DNS" swimtime="00:00:00.00" resultid="5007" heatid="5731" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Gabriel" lastname="Locoman Bernart" birthdate="2008-11-07" gender="M" nation="BRA" athleteid="5020">
+              <RESULTS>
+                <RESULT eventid="1130" points="282" swimtime="00:00:33.14" resultid="5021" heatid="5775" lane="2" />
+                <RESULT eventid="1146" points="288" swimtime="00:00:30.51" resultid="5022" heatid="5795" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Julia" lastname="Corosque" birthdate="2010-08-11" gender="F" nation="BRA" athleteid="5014">
+              <RESULTS>
+                <RESULT eventid="1124" points="187" swimtime="00:00:42.56" resultid="5015" heatid="5772" lane="5" />
+                <RESULT eventid="1140" points="206" swimtime="00:00:38.82" resultid="5016" heatid="5784" lane="5" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Isadora" lastname="dos Santos da Silva" birthdate="2013-08-10" gender="F" nation="BRA" athleteid="5035">
+              <RESULTS>
+                <RESULT eventid="1082" points="116" swimtime="00:00:21.43" resultid="5036" heatid="5719" lane="2" />
+                <RESULT eventid="1092" points="97" swimtime="00:00:25.77" resultid="5037" heatid="5730" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Lia" lastname="Rizzo Marques" birthdate="2013-03-01" gender="F" nation="BRA" athleteid="5038">
+              <RESULTS>
+                <RESULT eventid="1108" points="235" swimtime="00:00:37.11" resultid="5039" heatid="5756" lane="4" />
+                <RESULT eventid="1116" points="173" swimtime="00:00:45.30" resultid="5040" heatid="5768" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Fábio" lastname="Chiquito do Brasil" birthdate="2011-05-11" gender="M" nation="BRA" athleteid="5002">
+              <RESULTS>
+                <RESULT eventid="1106" points="276" swimtime="00:00:30.94" resultid="5003" heatid="5754" lane="3" entrytime="00:00:30.00" />
+                <RESULT eventid="1122" points="207" swimtime="00:00:36.75" resultid="5004" heatid="5770" lane="3" entrytime="00:00:36.00" />
+              </RESULTS>
+            </ATHLETE>
+            <ATHLETE firstname="Davi" lastname="Simicek Damacena" birthdate="2015-03-23" gender="M" nation="BRA" athleteid="5029">
+              <RESULTS>
+                <RESULT eventid="1072" status="DNS" swimtime="00:00:00.00" resultid="5030" heatid="5712" lane="5" />
+                <RESULT eventid="1076" status="DNS" swimtime="00:00:00.00" resultid="5031" heatid="5716" lane="4" />
+              </RESULTS>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+      </CLUBS>
+    </MEET>
+  </MEETS>
+</LENEX>
