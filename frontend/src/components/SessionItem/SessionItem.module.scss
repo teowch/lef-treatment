@@ -1,0 +1,11 @@
+.sessionHeader {
+    padding: calc(vars.$default-spacing * 2);
+    display: flex;
+    justify-content: space-around;
+}
+
+.sessionItem {
+    background-color: vars.$bg-level-1;
+    overflow: hidden;
+    border-bottom: 1px solid vars.$color-primary;
+}

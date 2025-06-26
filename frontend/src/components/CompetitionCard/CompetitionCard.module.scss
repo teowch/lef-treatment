@@ -1,0 +1,27 @@
+.competitionCard {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: #000000;
+    width: 100%;
+    border: 1px solid vars.$color-primary;
+    padding: vars.$default-spacing calc(vars.$default-spacing * 2);
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 3px vars.$color-primary;
+    
+    h2 {
+        font-size: 20pt;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: vars.$default-spacing;
+    }
+
+    .info {
+        display: flex;
+        gap: calc(vars.$default-spacing / 2);
+        align-items: center;
+        img {
+            width: 16px;
+        }
+    }
+}

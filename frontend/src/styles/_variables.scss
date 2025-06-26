@@ -1,0 +1,32 @@
+// _colors.scss
+
+// Core
+$color-primary:   #00488b;   // Azul vivo → títulos, links e botões principais
+$color-secondary: #e7f3ff;   // Rosa escuro → ênfases, ícones, badges
+$color-tertiary:  #4CC9F0;   // Azul claro → detalhes decorativos
+$background-color: #d6eaff;
+
+// Interface
+$bg-level-1:      #87c3ff;   // Fundo de SessionItem
+$bg-level-2:      #a2d1ff;   // Fundo de EventItem
+$bg-level-3:      #c8e4ff;   // Fundo de HeatItem
+$bg-level-4:      #e0f0ff;   // Fundo de ResultItem
+$bg-level-5:      #f1f8ff;   // Fundo de Splits
+
+// Borda por nível (para delimitar seções aninhadas)
+$border-level-1: #68839c; // Borda para SessionItem (bg-level-1)
+$border-level-2: #8ebddd; // Borda para EventItem (bg-level-2)
+$border-level-3: #d8d8d8; // Borda para HeatItem  (bg-level-3)
+$border-level-4: #608871; // Borda para ResultItem (bg-level-4)
+$border-level-5: #9bd6ba; // Borda para Splits     (bg-level-5)
+
+// Texto
+$text-base:       #1C1C1C;
+$text-muted:      #666666;
+$text-inverse:    #ffffff;
+
+// Borda
+$border-default:  #cccccc;
+$border-focus:    $color-primary;
+
+$default-spacing: 0.5rem;

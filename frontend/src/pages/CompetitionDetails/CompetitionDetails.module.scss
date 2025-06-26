@@ -1,0 +1,23 @@
+.sessionList {
+    display: flex;
+    flex-direction: column;
+}
+
+.competitionHeader {
+    padding: 2rem;
+
+    h1 {
+        font-size: 20pt;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .info {
+        display: flex;
+        gap: calc(vars.$default-spacing / 2);
+        align-items: center;
+        img {
+            width: 16px;
+        }
+    }
+}

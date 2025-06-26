@@ -1,0 +1,24 @@
+.resultItem {
+    margin: vars.$default-spacing;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+
+    &:first-of-type {
+        margin-top: 0;
+    }
+    &:last-of-type {
+        margin-bottom: 0;
+    }
+}
+
+.resultHeader {
+    background-color: vars.$bg-level-4;
+    padding: vars.$default-spacing;
+    border: 1px solid vars.$bg-level-1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

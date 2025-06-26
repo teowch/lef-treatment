@@ -1,0 +1,15 @@
+.eventItem {
+    background-color: vars.$bg-level-2;
+    overflow: hidden;
+}
+
+.eventHeader {
+    padding: vars.$default-spacing;
+    display: flex;
+    align-items: center;
+    gap: vars.$default-spacing;
+
+    img {
+        width: 16px;
+    }
+}

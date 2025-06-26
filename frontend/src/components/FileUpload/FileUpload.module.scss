@@ -1,0 +1,11 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: vars.$default-spacing;
+}
+
+.button {
+    height: 30px;
+    background-color: vars.$color-primary;
+    color: vars.$text-inverse;
+}

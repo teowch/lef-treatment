@@ -1,0 +1,15 @@
+.navbar {
+    background: vars.$color-primary;
+    color: vars.$text-inverse;
+    padding: vars.$default-spacing;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.navItem {
+    color: vars.$text-inverse;
+    text-decoration: none;
+    font-weight: bold;
+    margin: auto;
+    padding: vars.$default-spacing;
+}

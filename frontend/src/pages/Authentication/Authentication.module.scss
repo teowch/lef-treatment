@@ -1,0 +1,37 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    margin-top: vars.$default-spacing * 2;
+}
+
+.title {
+    text-align: center;
+    font-size: 20pt;
+    font-weight: bold;
+    margin-bottom: vars.$default-spacing;
+}
+
+.input {
+    height: 30px;
+    width: 100%;
+}
+
+.helper {
+    font-size: 12px;
+    width: 100%;
+}
+
+.button {
+    width: 50%;
+    height: 30px;
+    margin-top: vars.$default-spacing * 2;
+    background-color: vars.$color-primary;
+    color: vars.$text-inverse;
+}
+
+.error {
+    margin: vars.$default-spacing;
+}
