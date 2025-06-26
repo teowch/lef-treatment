@@ -8,7 +8,7 @@ O sistema segue uma arquitetura cliente-servidor desacoplada:
 
 *   **Backend (API):**
     *   **Framework:** Node.js com Express.
-    *   **Banco de Dados:** PostgreSQL, com o driver `pg`.
+    *   **Banco de Dados:** PostgreSQL.
     *   **Upload de Arquivos:** `multer` para gerenciar o upload de arquivos LENEX.
     *   **Parsing de XML:** `xml2js` para converter os dados do arquivo LENEX de XML para objetos JavaScript.
 
