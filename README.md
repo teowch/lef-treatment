@@ -32,7 +32,7 @@ Para informações mais detalhadas, consulte os seguintes manuais:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/teowch/lef-treatment.git
     cd lef-treatment
     ```
 
