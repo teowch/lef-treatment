@@ -47,14 +47,14 @@ Para informações mais detalhadas, consulte os seguintes manuais:
     ```bash
     cd api
     npm install
-    npm start
+    npm run start
     ```
 
 4.  **Configure e execute o Frontend:**
     ```bash
     cd frontend
     npm install
-    npm run dev
+    npm run start
     ```
 
 A aplicação estará disponível em `http://localhost:5173` (ou na porta informada pelo Vite).

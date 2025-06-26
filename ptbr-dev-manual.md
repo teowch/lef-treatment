@@ -44,15 +44,15 @@ cd lef-treatment
 1.  **Inicie o serviço do PostgreSQL.**
 2.  **Crie um banco de dados** para o projeto. Exemplo usando `psql`:
     ```sql
-    CREATE DATABASE lef_treatment_db;
+    CREATE DATABASE swimming;
     ```
 3.  **Execute o script DDL** para criar a estrutura de tabelas. Você pode usar uma ferramenta de banco de dados ou o `psql`:
     ```bash
-    psql -U seu_usuario -d lef_treatment_db -f database/ddl.sql
+    psql -U seu_usuario -d swimming -f database/ddl.sql
     ```
 3.  **Execute o script DML** para popular a tabela event_type. Você pode usar uma ferramenta de banco de dados ou o `psql`:
     ```bash
-    psql -U seu_usuario -d lef_treatment_db -f database/dml_event_type.sql
+    psql -U seu_usuario -d swimming -f database/dml_event_type.sql
     ```
 
 ### Passo 3: Configurar o Backend (API)
