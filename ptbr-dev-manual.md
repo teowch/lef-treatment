@@ -21,6 +21,7 @@ O sistema segue uma arquitetura cliente-servidor desacoplada:
 *   **Banco de Dados:**
     *   O esquema do banco de dados (`database/ddl.sql`) é projetado para normalizar e armazenar os dados complexos do padrão LENEX, garantindo integridade nas consultas.
     *   O arquivo `database/dml_event_type.sql` popula a tabela event_type com os tipos de eventos oficiais, determinados pela World Aquatics.
+    *   A estrutura do banco de dados é documentada no arquivo `database-description.md`.
 ## 2. Configuração do Ambiente
 
 Siga os passos abaixo para ter o ambiente de desenvolvimento totalmente funcional.
